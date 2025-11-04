@@ -8,3 +8,9 @@ verify_jwt = false
 
 [functions.corrigir-titulos-cppm]
 verify_jwt = false
+
+[functions.extrair-titulos-cppm-planalto]
+verify_jwt = false
+
+[functions.adicionar-titulos-cppm]
+verify_jwt = false
