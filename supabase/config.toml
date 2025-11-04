@@ -14,3 +14,6 @@ verify_jwt = false
 
 [functions.adicionar-titulos-cppm]
 verify_jwt = false
+
+[functions.corrigir-espacamento-cppm]
+verify_jwt = false
