@@ -39,7 +39,8 @@ const toTitleCase = (text: string): string => {
 export const formatTextWithUppercase = (text: string): string => {
   if (!text) return "";
   
-  let result = text;
+  // Normalizar quebras de linha múltiplas LOGO NO INÍCIO
+  let result = text.replace(/\n{2,}/g, '\n\n');
   
   // Aplicar quebra de linha e negrito a "Parágrafo único" (incluindo variações com ponto)
   result = result.replace(/([.;:!?])\s*(Parágrafo único\.?)/gi, '$1<br><br><strong class="font-bold">$2</strong>');
@@ -69,11 +70,11 @@ export const formatTextWithUppercase = (text: string): string => {
   // Identificar e marcar apenas TÍTULOS principais (linhas completas em caixa alta)
   // NÃO aplicar em textos após §, incisos, alíneas ou dentro de artigos
   const lines = result.split('\n');
-  const processedLines = lines.map(line => {
+  const processedLines = lines.map((line, lineIndex) => {
     const trimmedLine = line.trim();
     
-    // Ignora linhas vazias ou muito curtas
-    if (!trimmedLine || trimmedLine.length < 3) return line;
+    // Ignora linhas vazias ou muito curtas (aumentado de 3 para 10)
+    if (!trimmedLine || trimmedLine.length < 10) return line;
     
     // NÃO aplicar se a linha começa com §, números romanos seguidos de -, ou alíneas
     if (/^(§|\d+º|[IVXLCDM]+\s*[-–—]|[a-z]\))/.test(trimmedLine)) {
@@ -83,6 +84,12 @@ export const formatTextWithUppercase = (text: string): string => {
     // NÃO aplicar se está dentro de um artigo (começa com "Art.")
     if (/^Art\./.test(trimmedLine)) {
       return line;
+    }
+    
+    // NÃO aplicar se está no MEIO do artigo (depois de já ter aparecido um Art. acima)
+    const hasArticleAbove = lines.slice(0, lineIndex).some(l => /^Art\./i.test(l.trim()));
+    if (hasArticleAbove) {
+      return line; // É um subtítulo interno, não um título principal
     }
     
     // Contar palavras em CAIXA ALTA
