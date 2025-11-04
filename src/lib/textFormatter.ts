@@ -100,7 +100,9 @@ export const formatTextWithUppercase = (text: string): string => {
     return line;
   });
   
-  result = processedLines.join('\n');
+  result = processedLines
+    .join('\n')
+    .replace(/\n{3,}/g, '\n\n'); // Normaliza múltiplas quebras para apenas dupla
   
   // Envolve o texto completo sem forçar tamanho de fonte (herda do container)
   return `<div class="font-normal">${result}</div>`;

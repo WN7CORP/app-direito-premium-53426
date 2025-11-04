@@ -201,6 +201,18 @@ export default {
 					'100%': {
 						backgroundPosition: '200% 0'
 					}
+				},
+				'slide-up-fade': {
+					'0%': {
+						opacity: '0',
+						transform: 'translateY(20px)',
+						filter: 'blur(4px)'
+					},
+					'100%': {
+						opacity: '1',
+						transform: 'translateY(0)',
+						filter: 'blur(0)'
+					}
 				}
 			},
 			animation: {
@@ -216,7 +228,8 @@ export default {
 				'wave-pulse': 'wave-pulse 1s ease-in-out infinite',
 				'glow-pulse': 'glow-pulse 2s ease-in-out infinite',
 				'bounce-in': 'bounce-in 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55)',
-				'shimmer': 'shimmer 2s linear infinite'
+				'shimmer': 'shimmer 2s linear infinite',
+				'slide-up-fade': 'slide-up-fade 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards'
 			}
 		}
 	},
