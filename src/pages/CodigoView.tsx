@@ -664,7 +664,7 @@ const CodigoView = () => {
         const isHighlighted = searchQuery && article["Número do Artigo"]?.toLowerCase().trim() === searchQuery.toLowerCase().trim();
 
         // Se tem número, renderiza como card normal
-        return <div key={article.id} ref={index === 0 && searchQuery ? firstResultRef : null} className={`article-card animate-slide-up-fade relative overflow-hidden bg-card/80 backdrop-blur-sm rounded-2xl p-6 mb-6 border transition-all duration-300 hover:shadow-lg scroll-mt-4 ${
+        return <div key={article.id} ref={index === 0 && searchQuery ? firstResultRef : null} className={`article-card relative overflow-hidden bg-card/80 backdrop-blur-sm rounded-2xl p-6 mb-6 border transition-all duration-300 hover:shadow-lg scroll-mt-4 ${
             isHighlighted
               ? 'border-[hsl(45,93%,58%)] shadow-lg shadow-[hsl(45,93%,58%)]/20 ring-2 ring-[hsl(45,93%,58%)]/20' 
               : 'border-border/50 hover:border-[hsl(45,93%,58%)]/30 hover:shadow-[hsl(45,93%,58%)]/5'
