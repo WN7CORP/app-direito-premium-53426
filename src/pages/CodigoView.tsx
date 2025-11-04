@@ -187,7 +187,7 @@ const CodigoView = () => {
     data: articles = [],
     isLoading
   } = useQuery({
-    queryKey: ['codigo-articles-v4', id, decodedId, tableName],
+    queryKey: ['codigo-articles-v5', id, decodedId, tableName],
     queryFn: async () => {
       // Se tem cache, retorna imediatamente
       if (cachedData && cachedData.length > 0) {
