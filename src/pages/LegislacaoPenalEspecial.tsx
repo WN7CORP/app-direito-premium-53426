@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import { Shield, Scale, Heart, Skull, Zap, Phone, Users, Search, AlertTriangle, FileText } from "lucide-react";
+import { Shield, Scale, Heart, Skull, Zap, Phone, Users, Search, AlertTriangle, FileText, Banknote } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
@@ -135,12 +135,24 @@ const LegislacaoPenalEspecial = () => {
       sigla: "LOC",
       titulo: "Organizações Criminosas",
       numero: "Lei 12.850/2013",
-      descricao: "Define organização criminosa e investiga��ão",
+      descricao: "Define organização criminosa e investigação",
       icon: Users,
       borderColor: "border-l-[hsl(271,76%,53%)]",
       iconBg: "bg-[hsl(271,76%,53%)]/10",
       iconColor: "text-[hsl(271,76%,53%)]",
       route: "/lei-penal/organizacoes-criminosas"
+    },
+    {
+      id: "lavagem-dinheiro",
+      sigla: "LLD",
+      titulo: "Lavagem de Dinheiro",
+      numero: "Lei 9.613/1998",
+      descricao: "Crimes de lavagem ou ocultação de bens",
+      icon: Banknote,
+      borderColor: "border-l-[hsl(142,76%,36%)]",
+      iconBg: "bg-[hsl(142,76%,36%)]/10",
+      iconColor: "text-[hsl(142,76%,36%)]",
+      route: "/lei-penal/lavagem-dinheiro"
     }
   ];
 
@@ -167,14 +179,14 @@ const LegislacaoPenalEspecial = () => {
       "hediondos": "hsl(0,84%,60%)",
       "tortura": "hsl(38,92%,50%)",
       "interceptacao": "hsl(262,83%,58%)",
-      "org-criminosas": "hsl(271,76%,53%)"
+      "org-criminosas": "hsl(271,76%,53%)",
+      "lavagem-dinheiro": "hsl(142,76%,36%)"
     };
     return colorMap[id] || "hsl(217,91%,60%)";
   };
 
   return (
     <div className="px-3 py-4 max-w-4xl mx-auto pb-24">
-      {/* Header */}
       <div className="mb-6">
         <div className="flex items-center gap-3 mb-2">
           <div className="flex items-center justify-center w-12 h-12 rounded-full bg-red-600 shadow-lg shadow-red-500/50">
@@ -189,7 +201,6 @@ const LegislacaoPenalEspecial = () => {
         </div>
       </div>
 
-      {/* Campo de Busca */}
       <Card className="mb-6">
         <CardContent className="p-4">
           <div className="flex gap-2">
@@ -206,7 +217,6 @@ const LegislacaoPenalEspecial = () => {
         </CardContent>
       </Card>
 
-      {/* Leis Grid */}
       {filteredLeis.length === 0 ? (
         <div className="text-center py-16">
           <div className="inline-flex items-center justify-center w-14 h-14 rounded-full bg-secondary mb-3">

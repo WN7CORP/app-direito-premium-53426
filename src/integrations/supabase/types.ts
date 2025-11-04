@@ -4782,6 +4782,72 @@ export type Database = {
         }
         Relationships: []
       }
+      "LLD - Lei de Lavagem de Dinheiro": {
+        Row: {
+          Artigo: string | null
+          Aula: string | null
+          Comentario: string | null
+          exemplo: string | null
+          explicacao_resumido: string | null
+          explicacao_simples_maior16: string | null
+          explicacao_simples_menor16: string | null
+          explicacao_tecnico: string | null
+          flashcards: Json | null
+          id: number
+          Narração: string | null
+          "Número do Artigo": string | null
+          questoes: Json | null
+          termos: Json | null
+          termos_aprofundados: Json | null
+          ultima_atualizacao: string | null
+          ultima_visualizacao: string | null
+          versao_conteudo: number | null
+          visualizacoes: number | null
+        }
+        Insert: {
+          Artigo?: string | null
+          Aula?: string | null
+          Comentario?: string | null
+          exemplo?: string | null
+          explicacao_resumido?: string | null
+          explicacao_simples_maior16?: string | null
+          explicacao_simples_menor16?: string | null
+          explicacao_tecnico?: string | null
+          flashcards?: Json | null
+          id?: never
+          Narração?: string | null
+          "Número do Artigo"?: string | null
+          questoes?: Json | null
+          termos?: Json | null
+          termos_aprofundados?: Json | null
+          ultima_atualizacao?: string | null
+          ultima_visualizacao?: string | null
+          versao_conteudo?: number | null
+          visualizacoes?: number | null
+        }
+        Update: {
+          Artigo?: string | null
+          Aula?: string | null
+          Comentario?: string | null
+          exemplo?: string | null
+          explicacao_resumido?: string | null
+          explicacao_simples_maior16?: string | null
+          explicacao_simples_menor16?: string | null
+          explicacao_tecnico?: string | null
+          flashcards?: Json | null
+          id?: never
+          Narração?: string | null
+          "Número do Artigo"?: string | null
+          questoes?: Json | null
+          termos?: Json | null
+          termos_aprofundados?: Json | null
+          ultima_atualizacao?: string | null
+          ultima_visualizacao?: string | null
+          versao_conteudo?: number | null
+          visualizacoes?: number | null
+        }
+        Relationships: []
+      }
       "MAPA MENTAL": {
         Row: {
           area: string | null

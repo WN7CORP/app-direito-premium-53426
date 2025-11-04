@@ -17,3 +17,6 @@ verify_jwt = false
 
 [functions.corrigir-espacamento-cppm]
 verify_jwt = false
+
+[functions.importar-lei-lavagem-dinheiro]
+verify_jwt = false

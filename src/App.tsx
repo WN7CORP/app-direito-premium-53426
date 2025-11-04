@@ -173,6 +173,7 @@ import JuizadosEspeciaisView from "./pages/JuizadosEspeciaisView";
 import MariaDaPenhaView from "./pages/MariaDaPenhaView";
 import LeiDrogasView from "./pages/LeiDrogasView";
 import OrganizacoesCriminosasView from "./pages/OrganizacoesCriminosasView";
+import LeiPenalLavagemDinheiro from "./pages/LeiPenalLavagemDinheiro";
 import InterceptacaoTelefonicaView from "./pages/InterceptacaoTelefonicaView";
 import CrimesHediondosView from "./pages/CrimesHediondosView";
 import TorturaView from "./pages/TorturaView";
@@ -232,6 +233,7 @@ const App = () => {
               <Route path="/lei-penal/maria-da-penha" element={<MariaDaPenhaView />} />
               <Route path="/lei-penal/lei-drogas" element={<LeiDrogasView />} />
               <Route path="/lei-penal/organizacoes-criminosas" element={<OrganizacoesCriminosasView />} />
+              <Route path="/lei-penal/lavagem-dinheiro" element={<LeiPenalLavagemDinheiro />} />
               <Route path="/lei-penal/interceptacao-telefonica" element={<InterceptacaoTelefonicaView />} />
               <Route path="/lei-penal/crimes-hediondos" element={<CrimesHediondosView />} />
               <Route path="/lei-penal/tortura" element={<TorturaView />} />
