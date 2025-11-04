@@ -43,23 +43,23 @@ export const formatTextWithUppercase = (text: string): string => {
   let result = text.replace(/\n{2,}/g, '\n\n');
   
   // Aplicar quebra de linha e negrito a "Parágrafo único" (incluindo variações com ponto)
-  result = result.replace(/([.;:!?])\s*(Parágrafo único\.?)/gi, '$1<br><br><strong class="font-bold">$2</strong>');
-  result = result.replace(/^(Parágrafo único\.?)/gim, '<br><br><strong class="font-bold">$1</strong>');
+  result = result.replace(/([.;:!?])\s*(Parágrafo único\.?)/gi, '$1<br><strong class="font-bold">$2</strong>');
+  result = result.replace(/^(Parágrafo único\.?)/gim, '<br><strong class="font-bold">$1</strong>');
   // Regra geral para pegar qualquer "Parágrafo único" que ainda não tenha sido formatado
   result = result.replace(/(Parágrafo único\.?)(?!<)/gi, '<strong class="font-bold">$1</strong>');
   
   // Aplicar quebra de linha e negrito a parágrafos (§) - após pontuação
-  result = result.replace(/([.;:!?])\s+(§\s*\d+º)/g, '$1<br><br><strong class="font-bold">$2</strong>');
+  result = result.replace(/([.;:!?])\s+(§\s*\d+º)/g, '$1<br><strong class="font-bold">$2</strong>');
   // Para parágrafos no início de linha
-  result = result.replace(/^(§\s*\d+º)/gm, '<br><br><strong class="font-bold">$1</strong>');
+  result = result.replace(/^(§\s*\d+º)/gm, '<br><strong class="font-bold">$1</strong>');
   
   // Aplicar negrito a incisos romanos (I, II, III, etc) seguidos de hífen/traço
-  // Adiciona quebra de linha dupla antes de cada inciso que vem após pontuação
-  result = result.replace(/([.;:!?])\s+([IVXLCDM]+)\s*[-–—]\s*/g, '$1<br><br><strong class="font-bold">$2</strong> - ');
+  // Adiciona quebra de linha antes de cada inciso que vem após pontuação
+  result = result.replace(/([.;:!?])\s+([IVXLCDM]+)\s*[-–—]\s*/g, '$1<br><strong class="font-bold">$2</strong> - ');
   // Para incisos no início de linha
   result = result.replace(/^([IVXLCDM]+)\s*[-–—]\s*/gm, '<strong class="font-bold">$1</strong> - ');
   // Para incisos após dois pontos ou parênteses
-  result = result.replace(/:\s+([IVXLCDM]+)\s*[-–—]/g, ':<br><br><strong class="font-bold">$1</strong> -');
+  result = result.replace(/:\s+([IVXLCDM]+)\s*[-–—]/g, ':<br><strong class="font-bold">$1</strong> -');
   
   // Aplicar negrito a alíneas (a), b), c)) com quebra de linha
   // Alíneas no início de linha
