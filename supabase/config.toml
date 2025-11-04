@@ -5,3 +5,6 @@ verify_jwt = false
 
 [functions.popular-cppm-v2]
 verify_jwt = false
+
+[functions.corrigir-titulos-cppm]
+verify_jwt = false
