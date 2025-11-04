@@ -31,7 +31,10 @@ serve(async (req) => {
     
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     
-    const html = await response.text();
+    // Ler como ArrayBuffer e decodificar como ISO-8859-1 (Latin-1)
+    const buffer = await response.arrayBuffer();
+    const decoder = new TextDecoder('iso-8859-1');
+    const html = decoder.decode(buffer);
     const lines = html.split('\n');
     const titulosMap: Record<string, string> = {};
     let tituloAtual: string | null = null;
@@ -98,14 +101,17 @@ serve(async (req) => {
           continue;
         }
 
-        // Verificar se título já está no conteúdo
-        if (conteudoAtual.includes(titulo)) {
-          console.log(`⏭️ Art. ${numeroArtigo}: título já presente`);
-          continue;
+        // Remover título antigo corrompido se existir (forçar atualização)
+        const linhas = conteudoAtual.split('\n');
+        let conteudoLimpo = conteudoAtual;
+        
+        // Se primeira linha não começa com "Art.", é provável que seja título corrompido
+        if (linhas.length > 0 && !linhas[0].trim().startsWith('Art.')) {
+          conteudoLimpo = linhas.slice(1).join('\n').trim();
         }
 
-        // Adicionar título no início
-        const novoConteudo = `${titulo}\n\n${conteudoAtual}`;
+        // Adicionar título correto no início
+        const novoConteudo = `${titulo}\n\n${conteudoLimpo}`;
 
         // Atualizar artigo
         const { error: updateError } = await supabase
