@@ -1,0 +1,131 @@
+import { useState, useRef, useEffect } from "react";
+import { Pause, Loader2, Volume2 } from "lucide-react";
+import { cn } from "@/lib/utils";
+import { useNarrationPlayer } from "@/contexts/NarrationPlayerContext";
+import AudioWaveAnimation from "./AudioWaveAnimation";
+
+interface InlineAudioButtonProps {
+  audioUrl: string;
+  articleNumber: string;
+  onPlay?: (audioElement: HTMLAudioElement) => void;
+}
+
+const InlineAudioButton = ({ audioUrl, articleNumber, onPlay }: InlineAudioButtonProps) => {
+  const [isPlaying, setIsPlaying] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const [progress, setProgress] = useState(0);
+  const audioRef = useRef<HTMLAudioElement>(null);
+  const { playNarration, currentNarrationRef } = useNarrationPlayer();
+
+  useEffect(() => {
+    return () => {
+      audioRef.current?.pause();
+    };
+  }, []);
+
+  // Detectar quando outro áudio começa a tocar
+  useEffect(() => {
+    const checkIfStillPlaying = () => {
+      if (audioRef.current && currentNarrationRef.current !== audioRef.current) {
+        setIsPlaying(false);
+        setProgress(0);
+      }
+    };
+
+    const interval = setInterval(checkIfStillPlaying, 100);
+    return () => clearInterval(interval);
+  }, [currentNarrationRef]);
+
+  const togglePlay = async () => {
+    if (!audioRef.current) return;
+    
+    try {
+      if (isPlaying) {
+        audioRef.current.pause();
+        setIsPlaying(false);
+      } else {
+        setIsPlaying(true);
+        if (onPlay) {
+          onPlay(audioRef.current);
+        } else {
+          playNarration(audioRef.current);
+        }
+      }
+    } catch (error) {
+      console.error('Erro ao reproduzir áudio:', error);
+      setIsPlaying(false);
+    }
+  };
+
+  const handleLoadedMetadata = () => {
+    setLoading(false);
+  };
+
+  const handleTimeUpdate = () => {
+    if (audioRef.current) {
+      const currentProgress = (audioRef.current.currentTime / audioRef.current.duration) * 100;
+      setProgress(currentProgress);
+    }
+  };
+
+  const handleEnded = () => {
+    setIsPlaying(false);
+    setProgress(0);
+  };
+
+  return (
+    <div className="relative w-full">
+      <audio
+        ref={audioRef}
+        src={audioUrl}
+        onTimeUpdate={handleTimeUpdate}
+        onEnded={handleEnded}
+        onLoadedMetadata={handleLoadedMetadata}
+        preload="auto"
+      />
+      
+      {/* Botão de Narração - maior e com texto branco */}
+      <button
+        onClick={togglePlay}
+        disabled={loading}
+        className="w-full flex items-center justify-center gap-2 px-5 py-3.5 rounded-lg transition-all text-base font-medium shadow-lg hover:shadow-xl hover:scale-105 animate-fade-in relative overflow-hidden bg-accent/70 hover:bg-accent/90 border border-accent/30 group"
+      >
+        {/* Progress Fill */}
+        {isPlaying && (
+          <div 
+            className="absolute inset-0 bg-white/10 transition-all duration-200 ease-linear"
+            style={{ width: `${progress}%` }}
+          />
+        )}
+        
+        {/* Content */}
+        <div className="relative z-10 flex items-center gap-2 text-white">
+          {loading ? (
+            <Loader2 className="w-5 h-5 animate-spin text-white" />
+          ) : isPlaying ? (
+            <>
+              <div className="text-white">
+                <AudioWaveAnimation />
+              </div>
+              <Pause className="w-5 h-5 opacity-0 group-hover:opacity-100 transition-opacity absolute left-0 text-white" />
+            </>
+          ) : (
+            <>
+              <Volume2 className="w-5 h-5 text-white" />
+              <span className="font-medium text-white">
+                Narração
+              </span>
+            </>
+          )}
+          {isPlaying && (
+            <span className="font-medium opacity-0 group-hover:opacity-100 transition-opacity text-white">
+              Pausar
+            </span>
+          )}
+        </div>
+      </button>
+    </div>
+  );
+};
+
+export default InlineAudioButton;

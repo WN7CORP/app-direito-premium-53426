@@ -1,0 +1,7 @@
+project_id = "izspjvegxdfgkgibpyst"
+
+[functions.popular-lei-licitacoes]
+verify_jwt = false
+
+[functions.processar-lei-html]
+verify_jwt = false

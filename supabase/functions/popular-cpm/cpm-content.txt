@@ -1,0 +1,2638 @@
+# Document parsed from: decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc
+
+## Page 1
+
+
+CÂMARA DOS DEPUTADOS
+Centro de Documentação e Informação
+
+# DECRETO-LEI Nº 1.001, DE 21 DE OUTUBRO DE 1969
+
+# Código Penal Militar
+
+Os Ministros da Marinha de Guerra, do Exército e da Aeronáutica Militar, usando das atribuições que lhes confere o art. 3º do Ato Institucional nº 16, de 14 de outubro de 1969, combinado com o § 1º do art. 2º, do Ato Institucional nº 5, de 13 de dezembro de 1968, decretam:
+
+# CÓDIGO PENAL MILITAR
+
+# PARTE GERAL
+
+# LIVRO ÚNICO
+
+# TÍTULO I
+
+# DA APLICAÇÃO DA LEI PENAL MILITAR
+
+# Princípio de legalidade
+
+Art. 1º Não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal.
+
+# Lei supressiva de incriminação
+
+Art. 2 Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução e os efeitos penais da sentença condenatória. (Artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Retroatividade de lei mais benigna
+
+§ 1º A lei posterior que, de qualquer outro modo, favorece o agente, aplica-se retroativamente, ainda quando já tenha sobrevindo sentença condenatória irrecorrível.
+
+# Apuração da maior benignidade
+
+§ 2º Para se reconhecer qual a mais favorável, a lei posterior e a anterior devem ser consideradas separadamente, cada qual no conjunto de suas normas aplicáveis ao fato.
+
+# Medidas de segurança
+
+Art. 3º As medidas de segurança regem-se pela lei vigente ao tempo da sentença, prevalecendo, entretanto, se diversa, a lei vigente ao tempo da execução.
+
+
+
+<parsed-image>
+Image from page 1 available at: parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/img_p0_1.jpg
+
+
+</parsed-image>
+### Images from page 1:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_1.jpg` (full page screenshot)
+
+## Page 2
+
+
+# Lei excepcional ou temporária
+
+Art. 4º A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência.
+
+# Tempo do crime
+
+Art. 5º Considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o do resultado.
+
+# Lugar do crime
+
+Art. 6º Considera-se praticado o fato, no lugar em que se desenvolveu a atividade criminosa, no todo ou em parte, e ainda que sob forma de participação, bem como onde se produziu ou deveria produzir-se o resultado. Nos crimes omissivos, o fato considera-se praticado no lugar em que deveria realizar-se a ação omitida.
+
+# Territorialidade, Extraterritorialidade
+
+Art. 7º Aplica-se a lei penal militar, sem prejuízo de convenções, tratados e regras de direito internacional, ao crime cometido, no todo ou em parte no território nacional, ou fora dele, ainda que, neste caso, o agente esteja sendo processado ou tenha sido julgado pela justiça estrangeira.
+
+# Território nacional por extensão
+
+§ 1º Para os efeitos da lei penal militar consideram-se como extensão do território nacional as aeronaves e os navios brasileiros, onde quer que se encontrem, sob comando militar ou militarmente utilizados ou ocupados por ordem legal de autoridade competente, ainda que de propriedade privada.
+
+# Ampliação a aeronaves ou navios estrangeiros
+
+§ 2º É também aplicável a lei penal militar ao crime praticado a bordo de aeronaves ou navios estrangeiros, desde que em lugar sujeito à administração militar, e o crime atente contra as instituições militares.
+
+# Conceito de navio
+
+§ 3º Para efeito da aplicação deste Código, considera-se navio tôda embarcação sob comando militar.
+
+# Pena cumprida no estrangeiro
+
+Art. 8º A pena cumprida no estrangeiro atenua a pena imposta no Brasil pelo mesmo crime, quando diversas, ou nela é computada, quando idênticas.
+
+# Crimes militares em tempo de paz
+
+Art. 9º Consideram-se crimes militares, em tempo de paz:
+
+- I - os crimes de que trata este Código, quando definidos de modo diverso na lei penal comum, ou nela não previstos, qualquer que seja o agente, salvo disposição especial;
+- II - os crimes previstos neste Código e os previstos na legislação penal, quando praticados: (Inciso com redação dada pela Lei nº 13.491, de 13/10/2017)
+
+
+
+### Images from page 2:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_2.jpg` (full page screenshot)
+
+## Page 3
+
+
+# I - Crimes praticados por militares
+
+1. a) por militar da ativa contra militar na mesma situação;
+(Alínea com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+2. b) por militar da ativa, em lugar sujeito à administração militar, contra militar da reserva ou reformado ou contra civil;
+(Alínea com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+3. c) por militar em serviço ou atuando em razão da função, em comissão de natureza militar, ou em formatura, ainda que fora do lugar sujeito à administração militar contra militar da reserva, ou reformado, ou civil;
+(Alínea com redação dada pela Lei nº 9.299, de 8/8/1996)
+4. d) por militar, durante o período de manobras ou exercício, contra militar da reserva ou reformado ou contra civil;
+(Alínea com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+5. e) por militar da ativa contra o patrimônio sob a administração militar ou contra a ordem administrativa militar;
+(Alínea com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+6. f) (Revogada na Lei nº 9.299, de 8/8/1996)
+
+# III - Crimes praticados por militar da reserva, ou reformado, ou por civil
+
+1. a) contra o patrimônio sob a administração militar, ou contra a ordem administrativa militar;
+2. b) em lugar sujeito à administração militar, contra militar da ativa ou contra servidor público das instituições militares ou da Justiça Militar, no exercício de função inerente ao seu cargo;
+(Alínea com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+3. c) contra militar em formatura, ou durante o período de prontidão, vigilância, observação, exploração, exercício, acampamento, acantonamento ou manobras;
+4. d) ainda que fora do lugar sujeito à administração militar, contra militar em função de natureza militar, ou no desempenho de serviço de vigilância, garantia e preservação da ordem pública, administrativa ou judiciária, quando legalmente requisitado para aquele fim, ou em obediência a determinação legal superior.
+
+§ 1º Os crimes de que trata este artigo, quando dolosos contra a vida e cometidos por militares contra civil, serão da competência do Tribunal do Júri.
+(Parágrafo único acrescido pela Lei nº 9.299, de 7/8/1996, transformado em § 1º e com redação dada pela Lei nº 13.491, de 13/10/2017)
+
+§ 2º Os crimes militares de que trata este artigo, incluídos os previstos na legislação penal, nos termos do inciso II do caput deste artigo, quando dolosos contra a vida e cometidos por militares das Forças Armadas contra civil, serão da competência da Justiça Militar da União, se praticados no contexto:
+(Parágrafo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+1. I - do cumprimento de atribuições que lhes forem estabelecidas pelo Presidente da República ou pelo Ministro de Estado da Defesa;
+2. II - de ação que envolva a segurança de instituição militar ou de missão militar, mesmo que não beligerante; ou
+3. III - de atividade de natureza militar, de operação de paz, de garantia da lei e da ordem ou de atribuição subsidiária, realizadas em conformidade com o disposto no art. 142 da Constituição Federal e na forma dos seguintes diplomas legais:
+
+
+
+### Images from page 3:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_3.jpg` (full page screenshot)
+
+## Page 4
+
+
+a) Lei nº 7.565, de 19 de dezembro de 1986 – Código Brasileiro de Aeronáutica;
+
+b) Lei Complementar nº 97, de 9 de junho de 1999;
+
+c) Decreto-Lei nº 1.002, de 21 de outubro de 1969 - Código de Processo Penal Militar; e
+
+d) Lei nº 4.737, de 15 de julho de 1965 - Código Eleitoral. (Parágrafo acrescido pela Lei nº 13.491, de 13/10/2017)
+
+§ 3º (VETADO na Lei nº 14.688, de 20/9/2023)
+
+# Crimes militares em tempo de guerra
+
+Art. 10. Consideram-se crimes militares, em tempo de guerra:
+
+1. os especialmente previstos neste Código para o tempo de guerra;
+2. os crimes militares previstos para o tempo de paz;
+3. os crimes previstos neste Código, embora também o sejam com igual definição na lei penal comum ou especial, quando praticados, qualquer que seja o agente:
+1. a) em território nacional, ou estrangeiro, militarmente ocupado;
+2. b) em qualquer lugar, se comprometem ou podem comprometer a preparação, a eficiência ou as operações militares ou, de qualquer outra forma, atentam contra a segurança externa do País ou podem expô-la a perigo;
+4. os crimes definidos na lei penal comum ou especial, embora não previstos neste Código, quando praticados em zona de efetivas operações militares ou em território estrangeiro, militarmente ocupado.
+
+# Militares estrangeiros
+
+Art. 11. Os militares estrangeiros, quando em comissão ou em estágio em instituições militares, ficam sujeitos à lei penal militar brasileira, ressalvado o disposto em tratados ou em convenções internacionais. (Artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Equiparação a militar da ativa
+
+Art. 12. O militar da reserva ou reformado, quando empregado na administração militar, equipara-se ao militar da ativa, para o efeito da aplicação da lei penal militar. (Artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Militar da reserva ou reformado
+
+Art. 13. O militar da reserva, ou reformado, conserva as responsabilidades e prerrogativas do posto ou graduação, para o efeito da aplicação da lei penal militar, quando pratica ou contra ele é praticado crime militar.
+
+# Defeito de incorporação ou de matrícula
+
+(Nome jurídico com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Art. 14. O defeito do ato de incorporação ou de matrícula não exclui a aplicação da lei penal militar, salvo se alegado ou conhecido antes da prática do crime. (Artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+
+
+### Images from page 4:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_4.jpg` (full page screenshot)
+
+## Page 5
+
+
+# Tempo de guerra
+
+Art. 15. O tempo de guerra, para os efeitos da aplicação da lei penal militar, começa com a declaração ou o reconhecimento do estado de guerra, ou com o decreto de mobilização se nele estiver compreendido aquele reconhecimento; e termina quando ordenada a cessação das hostilidades.
+
+# Contagem de prazo
+
+Art. 16. No cômputo dos prazos inclui-se o dia do começo. Contam-se os dias, os meses e os anos pelo calendário comum.
+
+# Legislação especial. Salário-mínimo
+
+Art. 17. As regras gerais deste Código aplicam-se aos fatos incriminados por lei penal militar especial, se esta não dispõe de modo diverso. Para os efeitos penais, salário mínimo é o maior mensal vigente no país, ao tempo da sentença.
+
+# Crimes praticados em prejuízo de país aliado
+
+Art. 18. Ficam sujeitos às disposições deste Código os crimes praticados em prejuízo de país em guerra contra país inimigo do Brasil:
+
+1. se o crime é praticado por brasileiro;
+2. se o crime é praticado no território nacional, ou em território estrangeiro, militarmente ocupado por força brasileira, qualquer que seja o agente.
+
+# Infrações disciplinares
+
+Art. 19. Este Código não compreende as infrações dos regulamentos disciplinares.
+
+# Crimes praticados em tempo de guerra
+
+Art. 20. Aos crimes praticados em tempo de guerra, salvo disposição especial, aplicam-se as penas cominadas para o tempo de paz, com o aumento de um terço.
+
+# Assemelhado
+
+Art. 21. (Revogado pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Pessoa considerada militar
+
+Art. 22. É militar, para o efeito da aplicação deste Código, qualquer pessoa que, em tempo de paz ou de guerra, seja incorporada a instituições militares ou nelas matriculada, para servir em posto ou em graduação ou em regime de sujeição à disciplina militar. (Artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Equiparação a comandante
+
+Art. 23. Equipara-se ao comandante, para o efeito da aplicação da lei penal militar, toda autoridade com função de direção.
+
+
+
+### Images from page 5:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_5.jpg` (full page screenshot)
+
+## Page 6
+
+
+# Conceito de superior
+
+Art. 24. Considera-se superior para fins de aplicação da lei penal militar: (“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+- I - o militar que ocupa nível hierárquico, posto ou graduação superiores, conforme a antiguidade, nos termos da Lei nº 6.880, de 9 de dezembro de 1980 (Estatuto dos Militares), e de leis das unidades da Federação que regulam o regime jurídico de seus militares; (Inciso acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+- II - o militar que, em virtude da função, exerce autoridade sobre outro de igual posto ou graduação. (Inciso acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Parágrafo único. O militar sobre o qual se exerce autoridade nas condições descritas nos incisos I e II do caput deste artigo é considerado inferior hierárquico para fins de aplicação da lei penal militar. (Parágrafo único acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Crime praticado em presença do inimigo
+
+Art. 25. Diz-se crime praticado em presença do inimigo, quando o fato ocorre em zona de efetivas operações militares, ou na iminência ou em situação de hostilidade.
+
+# Referência a "brasileiro" ou "nacional"
+
+Art. 26. Quando a lei penal militar se refere a "brasileiro" ou "nacional", compreende as pessoas enumeradas como brasileiros na Constituição do Brasil.
+
+# Estrangeiros
+
+Parágrafo único. Para os efeitos da lei penal militar, são considerados estrangeiros os apátridas e os brasileiros que perderam a nacionalidade.
+
+# Servidores da Justiça Militar
+
+(Nome jurídico com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Art. 27. Para o efeito da aplicação deste Código, consideram-se servidores da Justiça Militar os juízes, os servidores públicos e os auxiliares da Justiça Militar. (Artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Casos de prevalência do Código Penal Militar
+
+Art. 28. Os crimes contra a segurança externa do país ou contra as instituições militares, definidos neste Código, excluem os da mesma natureza definidos em outras leis.
+
+# TÍTULO II
+
+# DO CRIME
+
+# Relação de causalidade
+
+Art. 29. O resultado de que depende a existência do crime somente é imputável a quem lhe deu causa. Considera-se causa a ação ou omissão sem a qual o resultado não teria ocorrido.
+
+
+
+### Images from page 6:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_6.jpg` (full page screenshot)
+
+## Page 7
+
+
+§ 1º A superveniência de causa relativamente independente exclui a imputação quando, por si só, produziu o resultado. Os fatos anteriores, imputam-se, entretanto, a quem os praticou.
+
+§ 2º A omissão é relevante como causa quando o omitente devia e podia agir para evitar o resultado. O dever de agir incumbe a quem tenha por lei obrigação de cuidado, proteção ou vigilância; a quem, de outra forma, assumiu a responsabilidade de impedir o resultado; e a quem, com seu comportamento anterior, criou o risco de sua superveniência.
+
+# Art. 30. Diz-se o crime:
+
+# Crime consumado
+
+I - consumado, quando nele se reúnem todos os elementos de sua definição legal;
+
+# Tentativa
+
+II - tentado, quando, iniciada a execução, não se consuma por circunstâncias alheias à vontade do agente.
+
+# Pena de tentativa
+
+Parágrafo único. Pune-se a tentativa com a pena correspondente ao crime, diminuída de um a dois terços, podendo o juiz, no caso de excepcional gravidade, aplicar a pena do crime consumado.
+
+# Desistência voluntária e arrependimento eficaz
+
+Art. 31. O agente que, voluntariamente, desiste de prosseguir na execução ou impede que o resultado se produza, só responde pelos atos já praticados.
+
+(Nome jurídico VETADO na Lei nº 14.688, de 20/9/2023)
+
+Art. 31-A. (VETADO na Lei nº 14.688, de 20/9/2023)
+
+# Crime impossível
+
+Art. 32. Quando, por ineficácia absoluta do meio empregado ou por absoluta impropriedade do objeto, é impossível consumar-se o crime, nenhuma pena é aplicável.
+
+# Art. 33. Diz-se o crime:
+
+# Culpabilidade
+
+I - doloso, quando o agente quis o resultado ou assumiu o risco de produzi-lo;
+
+II - culposo, quando o agente, deixando de empregar a cautela, atenção, ou diligência ordinária, ou especial, a que estava obrigado em face das circunstâncias, não prevê o resultado que podia prever ou, prevendo-o, supõe levianamente que não se realizaria ou que poderia evitá-lo.
+
+# Excepcionalidade do crime culposo
+
+Parágrafo único. Salvo os casos expressos em lei, ninguém pode ser punido por fato previsto como crime, senão quando o pratica dolosamente.
+
+
+
+### Images from page 7:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_7.jpg` (full page screenshot)
+
+## Page 8
+
+
+# Nenhuma pena sem culpabilidade
+
+Art. 34. Pelos resultados que agravam especialmente as penas só responde o agente quando os houver causado, pelo menos, culposamente.
+
+# Erro de direito
+
+Art. 35. A pena pode ser atenuada ou substituída por outra menos grave quando o agente, salvo em se tratando de crime que atente contra o dever militar, supõe lícito o fato, por ignorância ou erro de interpretação da lei, se escusáveis.
+
+# Erro de fato
+
+Art. 36. É isento de pena quem, ao praticar o crime, supõe, por erro plenamente escusável, a inexistência de circunstância de fato que o constitui ou a existência de situação de fato que tornaria a ação legítima.
+
+# Erro culposo
+
+§ 1º Se o erro deriva de culpa, a este título responde o agente, se o fato é punível como crime culposo.
+
+# Erro provocado
+
+§ 2º Se o erro é provocado por terceiro, responderá este pelo crime, a título de dolo ou culpa, conforme o caso.
+
+# Erro sobre a pessoa
+
+Art. 37. Quando o agente, por erro de percepção ou no uso dos meios de execução, ou outro acidente, atinge uma pessoa em vez de outra, responde como se tivesse praticado o crime contra aquela que realmente pretendia atingir. Devem ter-se em conta não as condições e qualidades da vítima, mas as da outra pessoa, para configuração, qualificação ou exclusão do crime, e agravação ou atenuação da pena.
+
+# Erro quanto ao bem jurídico
+
+§ 1º Se, por erro ou outro acidente na execução, é atingido bem jurídico diverso do visado pelo agente, responde este por culpa, se o fato é previsto como crime culposo.
+
+# Duplicidade do resultado
+
+§ 2º Se, no caso do artigo, é também atingida a pessoa visada, ou, no caso do parágrafo anterior, ocorre ainda o resultado pretendido, aplica-se a regra do art. 79.
+
+# Art. 38. Não é culpado quem comete o crime:
+
+- a) sob coação irresistível ou que lhe suprima a faculdade de agir segundo a própria vontade;
+- b) em estrita obediência a ordem direta de superior hierárquico, em matéria de serviços.
+
+§ 1º Responde pelo crime o autor da coação ou da ordem.
+
+
+
+### Images from page 8:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_8.jpg` (full page screenshot)
+
+## Page 9
+
+§ 2º Se a ordem do superior tem por objeto a prática de ato manifestamente criminoso, ou há excesso nos atos ou na forma da execução, é punível também o inferior hierárquico. (Parágrafo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Estado de necessidade, com excludente de culpabilidade
+
+Art. 39. Não é igualmente culpado quem, para proteger direito próprio ou de pessoa a quem está ligado por estreitas relações de parentesco ou afeição, contra perigo certo e atual, que não provocou, nem podia de outro modo evitar, sacrifica direito alheio, ainda quando superior ao direito protegido, desde que não lhe era razoavelmente exigível conduta diversa.
+
+# Coação física ou material
+
+Art. 40. Nos crimes em que há violação do dever militar, o agente não pode invocar coação irresistível senão quando física ou material.
+
+# Atenuação de pena
+
+Art. 41. Nos casos do art. 38, letras a e b, se era possível resistir à coação, ou se a ordem não era manifestamente ilegal; ou, no caso do art. 39, se era razoavelmente exigível o sacrifício do direito ameaçado, o juiz, tendo em vista as condições pessoais do réu, pode atenuar a pena.
+
+# Exclusão de crime
+
+Art. 42. Não há crime quando o agente pratica o fato:
+
+1. I - em estado de necessidade;
+2. II - em legítima defesa;
+3. III - em estrito cumprimento do dever legal;
+4. IV - em exercício regular de direito.
+
+Parágrafo único. Não há igualmente crime quando o comandante de navio, aeronave ou praça de guerra, na iminência de perigo ou grave calamidade, compele os subalternos, por meios violentos, a executar serviços e manobras urgentes, para salvar a unidade ou vidas, ou evitar o desânimo, o terror, a desordem, a rendição, a revolta ou o saque.
+
+# Estado de necessidade, como excludente do crime
+
+Art. 43. Considera-se em estado de necessidade quem pratica o fato para preservar direito seu ou alheio, de perigo certo e atual, que não provocou, nem podia de outro modo evitar, desde que o mal causado, por sua natureza e importância, é consideravelmente inferior ao mal evitado, e o agente não era legalmente obrigado a arrostar o perigo.
+
+# Legítima defesa
+
+Art. 44. Entende-se em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem.
+
+# Excesso culposo
+
+Art. 45. O agente que, em qualquer dos casos de exclusão de crime, excede culposamente os limites da necessidade, responde pelo fato, se este é punível, a título de culpa.
+
+### Images from page 9:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_9.jpg` (full page screenshot)
+
+## Page 10
+
+
+
+# Excesso escusável
+
+Parágrafo único. Não é punível o excesso quando resulta de escusável surpresa ou perturbação de ânimo, em face da situação.
+
+# Excesso doloso
+
+Art. 46. O juiz pode atenuar a pena ainda quando punível o fato por excesso doloso.
+
+# Elementos não constitutivos do crime
+
+Art. 47. Deixam de ser elementos constitutivos do crime:
+
+1. a qualidade de superior ou a de inferior hierárquico, quando não conhecida do agente;
+(Alínea com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+2. a qualidade de superior ou a de inferior hierárquico, a de oficial de dia, de serviço ou de quarto, ou a de sentinela, vigia ou plantão, quando a ação é praticada em repulsa a agressão.
+(Alínea com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# TÍTULO III
+
+# DA IMPUTABILIDADE PENAL
+
+# Inimputáveis
+
+Art. 48. Não é imputável quem, no momento da ação ou da omissão, não possui a capacidade de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento, em virtude de doença mental, de desenvolvimento mental incompleto ou retardado.
+
+# Redução Facultativa da Pena
+
+(Nome jurídico com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Parágrafo único. Se a doença ou a deficiência mental não suprime, mas diminui consideravelmente a capacidade de entendimento da ilicitude do fato ou a de autodeterminação, não fica excluída a imputabilidade, mas a pena pode ser reduzida de 1/3 (um terço) a 2/3 (dois terços), sem prejuízo do disposto no art. 113 deste Código.
+(Parágrafo único com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Embriaguez
+
+Art. 49. Não é igualmente imputável o agente que, por embriaguez completa proveniente de caso fortuito ou força maior, era, ao tempo da ação ou da omissão, inteiramente incapaz de entender o caráter criminoso do fato ou de determinar-se de acordo com esse entendimento.
+
+Parágrafo único. A pena pode ser reduzida de um a dois terços, se o agente por embriaguez proveniente de caso fortuito ou força maior, não possuía, ao tempo da ação ou da omissão, a plena capacidade de entender o caráter criminoso do fato ou de determinar-se de acordo com esse entendimento.
+
+
+
+### Images from page 10:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_10.jpg` (full page screenshot)
+
+## Page 11
+
+
+
+# Menores
+
+Art. 50. O menor de 18 (dezoito) anos é penalmente inimputável, ficando sujeito às normas estabelecidas na legislação especial. (Artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Equiparação a maiores
+
+Art. 51. (Revogado pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Art. 52. (Revogado pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# TÍTULO IV
+
+# DO CONCURSO DE AGENTES
+
+Coautoria (Nome jurídico com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Art. 53. Quem, de qualquer modo, concorre para o crime incide nas penas a este cominadas.
+
+# Condições ou circunstâncias pessoais
+
+§ 1º A punibilidade de qualquer dos concorrentes é independente da dos outros, determinando-se segundo a sua própria culpabilidade. Não se comunicam, outrossim, as condições ou circunstâncias de caráter pessoal, salvo quando elementares do crime.
+
+# Agravação de pena
+
+§ 2º A pena é agravada em relação ao agente que:
+
+- I - promove ou organiza a cooperação no crime ou dirige a atividade dos demais agentes;
+- II - coage outrem à execução material do crime;
+- III - instiga ou determina a cometer o crime alguém sujeito à sua autoridade, ou não punível em virtude de condição ou qualidade pessoal;
+- IV - executa o crime, ou nele participa, mediante paga ou promessa de recompensa.
+
+# Atenuação de pena
+
+§ 3º A pena é atenuada com relação ao agente, cuja participação no crime é de somenos importância.
+
+# Cabeças
+
+§ 4º Na prática de crime de autoria coletiva necessária, reputam-se cabeças os que dirigem, provocam, instigam ou excitam a ação.
+
+§ 5º Quando o crime é cometido por inferiores hierárquicos e um ou mais oficiais, são estes considerados cabeças, assim como os inferiores hierárquicos que exercem função de oficial. (Parágrafo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+
+
+### Images from page 11:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_11.jpg` (full page screenshot)
+
+## Page 12
+
+
+# Casos de impunibilidade
+
+Art. 54. O ajuste, a determinação ou instigação e o auxílio, salvo disposição em contrário, não são puníveis se o crime não chega, pelo menos, a ser tentado.
+
+# TÍTULO V
+
+# DAS PENAS
+
+# CAPÍTULO I
+
+# DAS PENAS PRINCIPAIS
+
+# Penas principais
+
+Art. 55. As penas principais são:
+
+- a) morte;
+- b) reclusão;
+- c) detenção;
+- d) prisão;
+- e) impedimento;
+- f) (Revogada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+- g) (Revogada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Pena de morte
+
+Art. 56. A pena de morte é executada por fuzilamento.
+
+# Comunicação
+
+Art. 57. A sentença definitiva de condenação à morte é comunicada, logo que passe em julgado, ao Presidente da República, e não pode ser executada senão depois de sete dias após a comunicação.
+
+Parágrafo único. Se a pena é imposta em zona de operações de guerra, pode ser imediatamente executada, quando o exigir o interêsse da ordem e da disciplina militares.
+
+# Mínimos e máximos genéricos
+
+Art. 58. O mínimo da pena de reclusão é de um ano, e o máximo de trinta anos; o mínimo da pena de detenção é de trinta dias, e o máximo de dez anos.
+
+# Pena até dois anos imposta a militar
+
+Art. 59. A pena de reclusão ou de detenção até 2 (dois) anos, aplicada a militar, é convertida em pena de prisão e cumprida, quando não cabível a suspensão condicional: (“Caput” do artigo com redação dada pela Lei nº 6.544, de 30/6/1978)
+
+- I - pelo oficial, em recinto de estabelecimento militar;
+- II - pela praça, em estabelecimento penal militar, onde ficará separada de presos que estejam cumprindo pena disciplinar ou pena privativa de liberdade por tempo superior a dois anos.
+
+
+
+### Images from page 12:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_12.jpg` (full page screenshot)
+
+## Page 13
+
+# Separação de praças especiais e graduadas
+
+Parágrafo único. Para efeito de separação, no cumprimento da pena de prisão, atender-se-á, também, à condição das praças especiais e à das graduadas, ou não; e, dentre as graduadas, à das que tenham graduação especial.
+
+# Pena do assemelhado
+
+Art. 60. (Revogado pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Pena superior a dois anos, imposta a militar
+
+Art. 61. A pena privativa da liberdade por mais de 2 (dois) anos, aplicada a militar, é cumprida em penitenciária militar e, na falta dessa, em estabelecimento prisional civil, ficando o recluso ou detento sujeito ao regime conforme a legislação penal comum, de cujos benefícios e concessões, também, poderá gozar. (Artigo com redação dada pela Lei nº 6.544, de 30/6/1978)
+
+# Pena privativa da liberdade imposta a civil
+
+Art. 62. O civil cumpre a pena aplicada pela Justiça Militar, em estabelecimento prisional civil, ficando ele sujeito ao regime conforme a legislação penal comum, de cujos benefícios e concessões, também, poderá gozar.
+
+# Cumprimento em penitenciária militar
+
+Parágrafo único. Por crime militar praticado em tempo de guerra poderá o civil ficar sujeito a cumprir a pena, no todo ou em parte em penitenciária militar, se, em benefício da segurança nacional, assim o determinar a sentença. (Artigo com redação dada pela Lei nº 6.544, de 30/6/1978)
+
+# Pena de impedimento
+
+Art. 63. A pena de impedimento sujeita o condenado a permanecer no recinto da unidade, sem prejuízo da instrução militar.
+
+# Pena de suspensão do exercício do posto, graduação, cargo ou função
+
+Art. 64. (Revogado pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Pena de reforma
+
+Art. 65. (Revogado pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Superveniência de doença mental
+
+Art. 66. O condenado a que sobrevenha doença mental deve ser recolhido a manicômio judiciário ou, na falta deste, a outro estabelecimento adequado, onde lhe seja assegurada custódia e tratamento.
+
+# Tempo computável
+
+Art. 67. Computam-se na pena privativa de liberdade o tempo de prisão provisória, no Brasil ou no estrangeiro, e o de internação em hospital ou manicômio, bem como o excesso de
+
+### Images from page 13:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_13.jpg` (full page screenshot)
+
+## Page 14
+
+
+tempo, reconhecido em decisão judicial irrecorrível, no cumprimento da pena, por outro crime, desde que a decisão seja posterior ao crime de que se trata.
+
+# Transferência de condenados
+
+Art. 68. O condenado pela Justiça Militar de uma região, distrito ou zona pode cumprir pena em estabelecimento de outra região, distrito ou zona.
+
+# CAPÍTULO II
+
+# DA APLICAÇÃO DA PENA
+
+# Fixação da pena privativa de liberdade
+
+Art. 69. Para fixação da pena privativa de liberdade, o juiz aprecia a gravidade do crime praticado e a personalidade do réu, devendo ter em conta a intensidade do dolo ou grau da culpa, a maior ou menor extensão do dano ou perigo de dano, os meios empregados, o modo de execução, os motivos determinantes, as circunstâncias de tempo e lugar, os antecedentes do réu e sua atitude de insensibilidade, indiferença ou arrependimento após o crime.
+
+# Determinação da pena
+
+§ 1º Se são cominadas penas alternativas, o juiz deve determinar qual delas é aplicável.
+
+# Limites legais da pena
+
+§ 2º Salvo o disposto no art. 76, é fixada dentro dos limites legais a quantidade da pena aplicável.
+
+# Circunstâncias agravantes
+
+Art. 70. São circunstâncias que sempre agravam a pena, quando não integrantes ou qualificativas do crime:
+
+1. a reincidência;
+2. ter o agente cometido o crime:
+1. a) por motivo fútil ou torpe;
+2. b) para facilitar ou assegurar a execução, a ocultação, a impunidade ou vantagem de outro crime;
+3. c) depois de embriagar-se, salvo se a embriaguez decorre de caso fortuito, engano ou força maior;
+4. d) à traição, de emboscada, com surpresa, ou mediante outro recurso insidioso que dificultou ou tornou impossível a defesa da vítima;
+5. e) com o emprego de veneno, asfixia, tortura, fogo, explosivo, ou qualquer outro meio dissimulado ou cruel, ou de que podia resultar perigo comum;
+6. f) contra ascendente, descendente, irmão ou cônjuge;
+7. g) com abuso de poder ou violação de dever inerente a cargo, ofício, ministério ou profissão;
+8. h) contra criança, pessoa maior de 60 (sessenta) anos, pessoa enferma, mulher grávida ou pessoa com deficiência; (Alínea com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+9. i) quando o ofendido estava sob a imediata proteção da autoridade;
+
+
+
+### Images from page 14:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_14.jpg` (full page screenshot)
+
+## Page 15
+
+
+
+# Reincidência
+
+Art. 71. Verifica-se a reincidência quando o agente comete novo crime, depois de transitar em julgado a sentença que, no país ou no estrangeiro, o tenha condenado por crime anterior.
+
+# Temporariedade da reincidência
+
+§ 1º Não se toma em conta, para efeito da reincidência, a condenação anterior, se, entre a data do cumprimento ou extinção da pena e o crime posterior, decorreu período de tempo superior a cinco anos.
+
+# Crimes não considerados para efeito da reincidência
+
+§ 2º Para efeito da reincidência, não se consideram os crimes anistiados.
+
+# Circunstância atenuantes
+
+Art. 72. São circunstâncias que sempre atenuam a pena:
+
+1. ser o agente menor de vinte e um ou maior de setenta anos;
+2. ser meritório seu comportamento anterior;
+3. ter o agente:
+
+# Não atendimento de atenuantes
+
+Parágrafo único. Nos crimes em que a pena máxima cominada é de morte, ao juiz é facultado atender, ou não, às circunstâncias atenuantes enumeradas no artigo.
+
+# Quantum da agravação ou atenuação
+
+Art. 73. Quando a lei determina a agravação ou atenuação da pena sem mencionar o quantum, deve o juiz fixá-lo entre um quinto e um terço, guardados os limites da pena cominada ao crime.
+
+
+
+### Images from page 15:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_15.jpg` (full page screenshot)
+
+## Page 16
+
+
+# Mais de uma agravante ou atenuante
+
+Art. 74. Quando ocorre mais de uma agravante ou mais de uma atenuante, o juiz poderá limitar-se a uma só agravação ou a uma só atenuação.
+
+# Concurso de agravantes e atenuantes
+
+Art. 75. No concurso de agravantes e atenuantes, a pena deve aproximar-se do limite indicado pelas circunstâncias preponderantes, entendendo-se como tais as que resultam dos motivos determinantes do crime, da personalidade do agente, e da reincidência. Se há equivalência entre umas e outras, é como se não tivessem ocorrido.
+
+# Majorantes e minorantes
+
+Art. 76. Quando a lei prevê causas especiais de aumento ou diminuição da pena, não fica o juiz adstrito aos limites da pena cominada ao crime, senão apenas aos da espécie de pena aplicável (art. 58).
+
+Parágrafo único. No concurso dessas causas especiais, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua.
+
+# Cálculo da pena
+
+(Nome jurídico com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Art. 77. A pena-base será fixada de acordo com o critério definido no art. 69 deste Código e, em seguida, serão consideradas as circunstâncias atenuantes e agravantes e, por último, as causas de diminuição e de aumento de pena. (“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Parágrafo único. Salvo na aplicação das causas de diminuição e de aumento, a pena não poderá ser fixada aquém do mínimo nem acima do máximo previsto em abstrato para o crime. (Parágrafo único acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Criminoso habitual ou por tendência
+
+Art. 78. (Revogado pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Concurso material
+
+(Nome jurídico com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Art. 79. Quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplicam-se-lhe cumulativamente as penas privativas de liberdade em que haja incorrido. (“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Parágrafo único. No caso de aplicação cumulativa de penas de reclusão e de detenção, executa-se primeiro aquela. (Parágrafo único acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Concurso formal
+
+(Nome jurídico acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Art. 79-A. Quando o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplica-se-lhe a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de 1/6 (um sexto) até metade.
+
+
+
+### Images from page 16:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_16.jpg` (full page screenshot)
+
+## Page 17
+
+
+§ 1º As penas aplicam-se, entretanto, cumulativamente, se a ação ou omissão é dolosa e os crimes concorrentes resultam de desígnios autônomos, consoante o disposto no art. 79 deste Código.
+
+§ 2º Não poderá a pena exceder a que seria cabível pela regra do art. 79 deste Código.
+
+(Artigo acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Crime continuado
+
+Art. 80. Quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes da mesma espécie e, pelas condições de tempo, lugar, maneira de execução e outras semelhantes, devem os subsequentes ser havidos como continuação do primeiro, aplica-se-lhe a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, aumentada, em qualquer caso, de 1/6 (um sexto) a 2/3 (dois terços). (“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Parágrafo único. Nos crimes dolosos contra vítimas diferentes cometidos com violência ou grave ameaça à pessoa, poderá o juízo, considerando a culpabilidade, os antecedentes, a conduta social e a personalidade do agente, bem como os motivos e as circunstâncias, aumentar a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, até o triplo, observadas as regras dos §§ 1º e 2º do art. 79-A e do art. 81 deste Código. (Parágrafo único com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Limite da pena unificada
+
+Art. 81. A pena unificada não pode ultrapassar de trinta anos, se é de reclusão, ou de quinze anos, se é de detenção.
+
+# Redução facultativa da pena
+
+§ 1º A pena unificada pode ser diminuída de um sexto a um quarto, no caso de unidade de ação ou omissão, ou de crime continuado.
+
+# Graduação no caso de pena de morte
+
+§ 2º Quando cominada a pena de morte como grau máximo e a de reclusão como grau mínimo, aquela corresponde, para o efeito de graduação, à de reclusão por trinta anos.
+
+# Cálculo da pena aplicável à tentativa
+
+§ 3º Nos crimes punidos com a pena de morte, esta corresponde à de reclusão por trinta anos, para cálculo da pena aplicável à tentativa, salvo disposição especial.
+
+# Ressalva do art. 78, § 2º, letra b
+
+Art. 82. (Revogado pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Penas não privativas de liberdade
+
+Art. 83. As penas não privativas de liberdade são aplicadas distinta e integralmente, ainda que previstas para um só dos crimes concorrentes.
+
+# CAPÍTULO III
+
+### Images from page 17:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_17.jpg` (full page screenshot)
+
+## Page 18
+
+# DA SUSPENSÃO CONDICIONAL DA PENA
+
+# Pressupostos da suspensão
+
+Art. 84. A execução da pena privativa de liberdade não superior a 2 (dois) anos pode ser suspensa por 3 (três) a 5 (cinco) anos, no caso de pena de reclusão, e por 2 (dois) a 4 (quatro) anos, no caso de pena de detenção, desde que: (“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+1. I - o sentenciado não haja sofrido no País ou no estrangeiro, condenação irrecorrível por outro crime a pena privativa da liberdade, salvo o disposto no 1º do art. 71; (Inciso com redação dada pela Lei nº 6.544, de 30/6/1978)
+2. II - a culpabilidade, os antecedentes, a conduta social e a personalidade do agente, bem como os motivos e as circunstâncias do crime, autorizem a concessão do benefício. (Inciso com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Restrições
+
+§ 1º A suspensão não se estende à pena acessória nem exclui a aplicação de medida de segurança não detentiva. (Parágrafo único transformado em § 1º, com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+§ 2º A execução da pena privativa de liberdade não superior a 4 (quatro) anos poderá ser suspensa por 4 (quatro) a 6 (seis) anos, desde que o condenado seja maior de 70 (setenta) anos de idade ou existam razões de saúde que justifiquem a suspensão. (Parágrafo acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Condições
+
+Art. 85. A sentença deve especificar as condições a que fica subordinada a suspensão.
+
+# Revogação obrigatória da suspensão
+
+Art. 86. A suspensão é revogada se, no curso do prazo, o beneficiário:
+
+1. I - é condenado por crime doloso, na Justiça Militar ou na Justiça Comum, por sentença irrecorrível; (Inciso com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+2. II - não efetua, sem motivo justificado, a reparação do dano;
+3. III - (Revogado pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Revogação facultativa
+
+§ 1º A suspensão também pode ser revogada se o condenado deixar de cumprir qualquer das obrigações constantes da sentença ou, se militar, for punido por infração disciplinar considerada grave. (Parágrafo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Prorrogação de prazo
+
+§ 2º Quando facultativa a revogação, o juiz pode, ao invés de decretá-la, prorrogar o período de prova até o máximo, se este não foi o fixado.
+
+§ 3º Se o beneficiário está respondendo a processo que, no caso de condenação, pode acarretar a revogação, considera-se prorrogado o prazo da suspensão até o julgamento definitivo.
+
+### Images from page 18:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_18.jpg` (full page screenshot)
+
+## Page 19
+
+
+# Extinção da pena
+
+Art. 87. Se o prazo expira sem que tenha sido revogada a suspensão, fica extinta a pena privativa de liberdade.
+
+# Não aplicação da suspensão condicional da pena
+
+Art. 88. A suspensão condicional da pena não se aplica:
+
+- I - ao condenado por crime cometido em tempo de guerra;
+- II - em tempo de paz:
+
+# CAPÍTULO IV
+
+# DO LIVRAMENTO CONDICIONAL
+
+# Requisitos
+
+Art. 89. O condenado a pena de reclusão ou de detenção por tempo igual ou superior a dois anos pode ser liberado condicionalmente, desde que:
+
+- I - tenha cumprido:
+- - a) metade da pena, se primário;
+- b) dois terços, se reincidente;
+
+II - tenha reparado, salvo impossibilidade de fazê-lo, o dano causado pelo crime;
+- III - sua boa conduta durante a execução da pena, sua adaptação ao trabalho e às circunstâncias atinentes a sua personalidade, ao meio social e à sua vida pregressa permitem supor que não voltará a delinqüir.
+
+# Penas em concurso de infrações
+
+§ 1º No caso de condenação por infrações penais em concurso, deve ter-se em conta a pena unificada.
+
+# Condenação de menor de 21 ou maior de 70 anos
+
+§ 2º Se o condenado é primário e menor de vinte e um ou maior de setenta anos, o tempo de cumprimento da pena pode ser reduzido a um terço.
+
+# Especificações das condições
+
+Art. 90. A sentença deve especificar as condições a que fica subordinado o livramento.
+
+# Preliminares da concessão
+
+Art. 91. O livramento somente se concede mediante parecer do Conselho Penitenciário, ouvidos o diretor do estabelecimento em que está ou tenha estado o liberando e o representante do Ministério Público da Justiça Militar; e, se imposta medida de segurança detentiva, após perícia conclusiva da não periculosidade do liberando.
+
+
+
+### Images from page 19:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_19.jpg` (full page screenshot)
+
+## Page 20
+
+
+# Observação cautelar e proteção do liberado
+
+Art. 92. O liberado fica sob observação cautelar e proteção realizadas por patronato oficial ou particular, dirigido aquele e inspecionado este pelo Conselho Penitenciário. Na falta de patronato, o liberado fica sob observação cautelar realizada por serviço social penitenciário ou órgão similar.
+
+# Revogação obrigatória
+
+Art. 93. Revoga-se o livramento, se o liberado vem a ser condenado, em sentença irrecorrível, a penal privativa de liberdade:
+
+- I - por infração penal cometida durante a vigência do benefício;
+- II - por infração penal anterior, salvo se, tendo de ser unificadas as penas, não fica prejudicado o requisito do art. 89, nº I, letra a.
+
+# Revogação facultativa
+
+§ 1º O juiz pode, também, revogar o livramento se o liberado deixa de cumprir qualquer das obrigações constantes da sentença ou é irrecorrìvelmente condenado, por motivo de contravenção, a pena que não seja privativa de liberdade; ou, se militar, sofre penalidade por transgressão disciplinar considerada grave.
+
+# Infração sujeita à jurisdição penal comum
+
+§ 2º Para os efeitos da revogação obrigatória, são tomadas, também, em consideração, nos termos dos ns. I e II deste artigo, as infrações sujeitas à jurisdição penal comum; e, igualmente, a contravenção compreendida no § 1º, se assim, com prudente arbítrio, o entender o juiz.
+
+# Efeitos da revogação
+
+Art. 94. Revogado o livramento, não pode ser novamente concedido e, salvo quando a revogação resulta de condenação por infração penal anterior ao benefício, não se desconta na pena o tempo em que esteve solto o condenado.
+
+# Extinção da pena
+
+Art. 95. Se, até o seu termo, o livramento não é revogado, considera-se extinta a pena privativa de liberdade.
+
+Parágrafo único. Enquanto não passa em julgado a sentença em processo, a que responde o liberado por infração penal cometida na vigência do livramento, deve o juiz abster-se de declarar a extinção da pena.
+
+# Não aplicação do livramento condicional
+
+Art. 96. O livramento condicional não se aplica ao condenado por crime cometido em tempo de guerra.
+
+# Casos especiais do livramento condicional
+
+Art. 97. Em tempo de paz, o livramento condicional por crime contra a segurança externa do país, ou de revolta, motim, aliciação e incitamento, violência contra superior ou militar de serviço, só será concedido após o cumprimento de dois terços da pena, observado ainda o disposto no art. 89, preâmbulo, seus números II e III e §§ 1º e 2º.
+
+
+
+### Images from page 20:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_20.jpg` (full page screenshot)
+
+## Page 21
+
+# CAPÍTULO V
+
+# DAS PENAS ACESSÓRIAS
+
+Penas acessórias (Nome jurídico com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Art. 98. São penas acessórias:
+
+1. a perda de posto e patente;
+2. a indignidade para o oficialato;
+3. a incompatibilidade com o oficialato;
+4. a exclusão das forças armadas;
+5. a perda da função pública, ainda que eletiva;
+6. a inabilitação para o exercício de função pública;
+7. a incapacidade para o exercício do poder familiar, da tutela ou da curatela, quando tal medida for determinante para salvaguardar os interesses do filho, do tutelado ou do curatelado; (Inciso com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+8. a suspensão dos direitos políticos.
+
+# Função pública equiparada
+
+Parágrafo único. Equipara-se à função pública a que é exercida em empresa pública, autarquia, sociedade de economia mista, ou sociedade de que participe a União, o Estado ou o Município como acionista majoritário.
+
+# Perda de posto e patente
+
+# Art. 99.
+
+A perda de posto e patente resulta da condenação a pena privativa de liberdade por tempo superior a 2 (dois) anos, por crimes comuns e militares, e importa a perda das condecorações, desde que submetido o oficial ao julgamento previsto no inciso VI do § 3º do art. 142 da Constituição Federal. (Artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Indignidade para o oficialato
+
+# Art. 100.
+
+Fica sujeito à declaração de indignidade para o oficialato o militar condenado, qualquer que seja a pena, nos crimes de traição, espionagem ou cobardia, ou em qualquer dos definidos nos arts. 161, 235, 240, 242, 243, 244, 245, 251, 252, 303, 304, 311 e 312.
+
+# Incompatibilidade com o oficialato
+
+# Art. 101.
+
+Fica sujeito à declaração de incompatibilidade com o oficialato o militar condenado nos crimes dos arts. 141 e 142.
+
+# Exclusão das forças armadas
+
+# Art. 102.
+
+A condenação da praça a pena privativa de liberdade, por tempo superior a dois anos, importa sua exclusão das forças armadas.
+
+# Perda da função pública
+
+# Art. 103.
+
+Incorre na perda da função pública o civil: (“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+### Images from page 21:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_21.jpg` (full page screenshot)
+
+## Page 22
+
+
+# I
+
+condenado a pena privativa de liberdade por crime cometido com abuso de poder ou violação de dever inerente à função pública;
+
+# II
+
+condenado, por outro crime, a pena privativa de liberdade por mais de dois anos.
+
+Parágrafo único. O disposto no artigo aplica-se ao militar da reserva, ou reformado, se estiver no exercício de função pública de qualquer natureza.
+
+# Inabilitação para o exercício de função pública
+
+Art. 104. Incorre na inabilitação para o exercício de função pública, pelo prazo de dois até vinte anos, o condenado a reclusão por mais de quatro anos, em virtude de crime praticado com abuso de poder ou violação do dever militar ou inerente à função pública.
+
+# Termo inicial
+
+Parágrafo único. O prazo da inabilitação para o exercício de função pública começa ao termo da execução da pena privativa de liberdade ou da medida de segurança imposta em substituição, ou da data em que se extingue a referida pena.
+
+# Incapacidade para o exercício do poder familiar, da tutela ou da curatela
+
+(Nome jurídico com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Art. 105. O condenado por cometimento de crime doloso sujeito a pena de reclusão praticado contra outrem igualmente titular do mesmo poder familiar ou contra filho, tutelado ou curatelado poderá, justificadamente e em atendimento ao melhor interesse do menor ou do curatelado, ter decretada a incapacidade para o exercício do poder familiar, da tutela ou da curatela, enquanto durar a execução da pena ou da medida de segurança imposta em substituição nos termos do art. 113 deste Código. (“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Incapacidade provisória
+
+(Nome jurídico com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Parágrafo único. Durante o processo para apuração dos crimes descritos no caput deste artigo, poderá o juízo, justificadamente e em atendimento ao melhor interesse do menor ou do curatelado, decretar a incapacidade provisória para o exercício do poder familiar, da tutela ou da curatela. (Parágrafo único com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Suspensão dos direitos políticos
+
+Art. 106. Durante a execução da pena privativa de liberdade ou da medida de segurança imposta em substituição, ou enquanto perdura a inabilitação para função pública, o condenado não pode votar, nem ser votado.
+
+# Imposição de pena acessória
+
+Art. 107. Salvo os casos dos arts. 99, 103, nº II, e 106, a imposição da pena acessória deve constar expressamente da sentença.
+
+
+
+### Images from page 22:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_22.jpg` (full page screenshot)
+
+## Page 23
+
+
+Tempo computável
+
+Art. 108. Computa-se no prazo das inabilitações temporárias o tempo de liberdade resultante da suspensão condicional da pena ou do livramento condicional, se não sobrevém revogação.
+
+# CAPÍTULO VI
+
+# DOS EFEITOS DA CONDENAÇÃO
+
+Obrigação de reparar o dano
+
+Art. 109. São efeitos da condenação:
+
+- I - tornar certa a obrigação de reparar o dano resultante do crime;
+
+Perda em favor da Fazenda Pública (Nome jurídico com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+- II - a perda em favor da Fazenda Pública, ressalvado o direito do lesado ou de terceiro de boa-fé: (Inciso com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# TÍTULO VI
+
+# DAS MEDIDAS DE SEGURANÇA
+
+Espécies de medidas de segurança
+
+Art. 110. As medidas de segurança são pessoais ou patrimoniais. (“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+§ 1º As medidas de segurança pessoais subdividem-se em:
+
+- I - detentivas: compreendem a internação em estabelecimento de custódia e tratamento ou em seção especial de estabelecimento penal;
+- II - não detentivas: compreendem o tratamento ambulatorial, a interdição de licença para direção de veículos motorizados, o exílio local e a proibição de frequentar determinados lugares. (Parágrafo acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+§ 2º As medidas de segurança patrimoniais compreendem a interdição de estabelecimento ou sede de sociedade ou associação e o confisco. (Parágrafo acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Pessoas sujeitas às medidas de segurança
+
+Art. 111. As medidas de segurança somente podem ser impostas:
+
+- I - aos civis;
+- II - aos militares condenados a pena privativa de liberdade por tempo superior a 2 (dois) anos, aos que de outro modo hajam perdido função, posto ou patente ou aos que tenham sido excluídos das Forças Armadas; (Inciso com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+
+
+### Images from page 23:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_23.jpg` (full page screenshot)
+
+## Page 24
+
+
+# III
+
+aos militares, no caso do art. 48 deste Código; (Inciso com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# IV
+
+aos militares, no caso do art. 115 deste Código, com aplicação dos seus §§ 1º, 2º e 3º. (Inciso com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Estabelecimento de custódia e tratamento
+
+(Nome jurídico com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Art. 112.
+
+Quando o agente é inimputável, nos termos do art. 48 deste Código, o juiz poderá determinar sua internação em estabelecimento de custódia e tratamento. (“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Prazo de internação
+
+§ 1º A internação ou o tratamento ambulatorial será por tempo indeterminado, perdurando enquanto não for averiguada, mediante perícia médica, a cessação da periculosidade, observado que o prazo mínimo deverá ser de 1 (um) a 3 (três) anos. (Parágrafo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Perícia médica
+
+§ 2º A perícia médica realizar-se-á ao término do prazo mínimo fixado e deverá ser repetida de ano em ano, ou a qualquer tempo, se o determinar o juiz da execução. (Parágrafo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Desinternação ou liberação condicional
+
+(Nome jurídico com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+§ 3º A desinternação ou a liberação será sempre condicional, devendo ser restabelecida a situação anterior se o agente, antes do decurso de 1 (um) ano, praticar fato indicativo de persistência de sua periculosidade. (Parágrafo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+§ 4º Durante o período previsto no § 3º deste artigo, aplicar-se-á o disposto no art. 92 deste Código. (Parágrafo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+§ 5º Em qualquer fase do tratamento ambulatorial, poderá o juiz determinar a internação do agente, se essa providência for necessária para fins curativos. (Parágrafo acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Substituição da pena por internação
+
+# Art. 113.
+
+Na hipótese do parágrafo único do art. 48 deste Código, e se o condenado necessitar de especial tratamento curativo destinado aos inimputáveis, a pena privativa de liberdade poderá ser substituída por internação ou por tratamento ambulatorial, pelo prazo mínimo de 1 (um) a 3 (três) anos, nos termos do art. 112 deste Código. (“Caput” do artigo com
+
+
+
+### Images from page 24:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_24.jpg` (full page screenshot)
+
+## Page 25
+
+redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação
+
+# Superveniência de cura
+
+§ 1º Sobrevindo a cura, pode o internado ser transferido para o estabelecimento penal, não ficando excluído o seu direito a livramento condicional.
+
+# Persistência do estado mórbido
+
+§ 2º Se, ao término do prazo, persistir o mórbido estado psíquico do internado, condicionante de periculosidade atual, a internação passa a ser por tempo indeterminado, aplicando-se o disposto nos §§ 1º a 4º do artigo anterior.
+
+# Ébrios habituais ou toxicômanos
+
+§ 3º À idêntica internação para fim curativo, sob as mesmas normas, ficam sujeitos os condenados reconhecidos como ébrios habituais ou toxicômanos.
+
+# Regime de internação
+
+Art. 114. A internação, em qualquer dos casos previstos nos artigos precedentes, deve visar não apenas ao tratamento curativo do internado, senão também ao seu aperfeiçoamento, a um regime educativo ou de trabalho, lucrativo ou não, segundo o permitirem suas condições pessoais.
+
+# Cassação de licença para dirigir veículos motorizados
+
+Art. 115. Ao condenado por crime cometido na direção ou relacionadamente à direção de veículos motorizados, deve ser cassada a licença para tal fim, pelo prazo mínimo de um ano, se as circunstâncias do caso e os antecedentes do condenado revelam a sua inaptidão para essa atividade e conseqüente perigo para a incolumidade alheia.
+
+§ 1º O prazo da interdição se conta do dia em que termina a execução da pena privativa de liberdade ou da medida de segurança detentiva, ou da data da suspensão condicional da pena ou da concessão do livramento ou desinternação condicionais.
+
+§ 2º Se, antes de expirado o prazo estabelecido, é averiguada a cessação do perigo condicionante da interdição, esta é revogada; mas, se o perigo persiste ao termo do prazo, prorroga-se este enquanto não cessa aquele.
+
+§ 3º A cassação da licença deve ser determinada ainda no caso de absolvição do réu em razão de inimputabilidade.
+
+# Exílio local
+
+Art. 116. O exílio local, aplicável quando o juiz o considera necessário como medida preventiva, a bem da ordem pública ou do próprio condenado, consiste na proibição de que este resida ou permaneça, durante um ano, pelo menos, na localidade, município ou comarca em que o crime foi praticado.
+
+Parágrafo único. O exílio deve ser cumprido logo que cessa ou é suspensa condicionalmente a execução da pena privativa de liberdade.
+
+
+
+### Images from page 25:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_25.jpg` (full page screenshot)
+
+## Page 26
+
+
+
+# Proibição de freqüentar determinados lugares
+
+Art. 117. A proibição de freqüentar determinados lugares consiste em privar o condenado, durante um ano, pelo menos, da faculdade de acesso a lugares que favoreçam, por qualquer motivo, seu retorno à atividade criminosa.
+
+Parágrafo único. Para o cumprimento da proibição, aplica-se o disposto no parágrafo único do artigo anterior.
+
+# Interdição de estabelecimento, sociedade ou associação
+
+Art. 118. A interdição de estabelecimento comercial ou industrial, ou de sociedade ou associação, pode ser decretada por tempo não inferior a quinze dias, nem superior a seis meses, se o estabelecimento, sociedade ou associação serve de meio ou pretexto para a prática de infração penal.
+
+§ 1º A interdição consiste na proibição de exercer no local o mesmo comércio ou indústria, ou a atividade social.
+
+§ 2º A sociedade ou associação, cuja sede é interditada, não pode exercer em outro local as suas atividades.
+
+# Confisco
+
+Art. 119. O juiz, embora não apurada a autoria, ou ainda quando o agente é inimputável, ou não punível, deve ordenar o confisco dos instrumentos e produtos do crime, desde que consistam em coisas:
+
+- I - cujo fabrico, alienação, uso, porte ou detenção constitui fato ilícito;
+- II - que, pertencendo às forças armadas ou sendo de uso exclusivo de militares, estejam em poder ou em uso do agente, ou de pessoa não devidamente autorizada;
+- III - abandonadas, ocultas ou desaparecidas.
+
+Parágrafo único. É ressalvado o direito do lesado ou de terceiro de boa-fé, nos casos dos ns. I e III.
+
+# Imposição da medida de segurança
+
+Art. 120. A medida de segurança é imposta em sentença, que lhe estabelecerá as condições, nos termos da lei penal militar.
+
+Parágrafo único. A imposição da medida de segurança não impede a expulsão do estrangeiro.
+
+# TÍTULO VII
+
+# DA AÇÃO PENAL
+
+# Propositura da ação penal
+
+Art. 121. A ação penal é promovida pelo Ministério Público, na forma da lei. (“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Parágrafo único. Será admitida ação privada, se a ação pública não for intentada no prazo legal. (Parágrafo único acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+
+
+### Images from page 26:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_26.jpg` (full page screenshot)
+
+## Page 27
+
+
+Dependência de requisição
+
+Art. 122. Nos crimes previstos nos arts. 136 a 141 deste Código, a ação penal, quando o agente for militar, depende da requisição do Comando da Força a que aquele estiver subordinado, observado que, no caso do art. 141, quando o agente for civil e não houver coautor militar, a requisição será do Ministério da Justiça. (Artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# TÍTULO VIII
+
+# DA EXTINÇÃO DA PUNIBILIDADE
+
+Causas extintivas
+
+Art. 123. Extingue-se a punibilidade:
+
+1. pela morte do agente;
+2. pela anistia, graça ou indulto;  (Inciso com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+3. pela retroatividade de lei que não mais considera o fato como criminoso;
+4. pela prescrição;
+5. (Revogado pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+6. pelo ressarcimento do dano, no peculato culposo (art. 303, § 4º);
+7. pelo perdão judicial, nos casos previstos em lei. (Inciso acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Parágrafo único. A extinção da punibilidade de crime, que é pressuposto, elemento constitutivo ou circunstância agravante de outro, não se estende a este. Nos crimes conexos, a extinção da punibilidade de um deles não impede, quanto aos outros, a agravação da pena resultante da conexão.
+
+Espécies de prescrição
+
+Art. 124. A prescrição refere-se à ação penal ou à execução da pena.
+
+Prescrição da ação penal
+
+Art. 125. A prescrição da ação penal, salvo o disposto no § 1º deste artigo, regula-se pelo máximo da pena privativa de liberdade cominada ao crime, verificando-se:
+
+1. em trinta anos, se a pena é de morte;
+2. em vinte anos, se o máximo da pena é superior a doze;
+3. em dezesseis anos, se o máximo da pena é superior a oito e não excede a doze;
+4. em doze anos, se o máximo da pena é superior a quatro e não excede a oito;
+5. em oito anos, se o máximo da pena é superior a dois e não excede a quatro;
+6. em quatro anos, se o máximo da pena é igual a um ano ou, sendo superior, não excede a dois;
+7. em dois anos, se o máximo da pena é inferior a um ano.
+
+Superveniência de sentença condenatória de que somente o réu recorre
+
+§ 1º Sobrevindo sentença condenatória, de que somente o réu tenha recorrido, a prescrição passa a regular-se pela pena imposta, e deve ser logo declarada, sem prejuízo do andamento do recurso se, entre a última causa interruptiva do curso da prescrição (§ 5º) e a sentença, já decorreu tempo suficiente.
+
+
+
+### Images from page 27:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_27.jpg` (full page screenshot)
+
+## Page 28
+
+
+# Termo inicial da prescrição da ação penal
+
+§ 2º A prescrição da ação penal começa a correr:
+
+- a) do dia em que o crime se consumou;
+- b) no caso de tentativa, do dia em que cessou a atividade criminosa;
+- c) nos crimes permanentes, do dia em que cessou a permanência;
+- d) nos crimes de falsidade, da data em que o fato se tornou conhecido.
+
+# Caso de concurso de crimes ou de crime continuado
+
+§ 3º No caso de concurso de crimes ou de crime continuado, a prescrição é referida, não à pena unificada, mas à de cada crime considerado isoladamente.
+
+# Suspensão da prescrição
+
+§ 4º A prescrição da ação penal não corre:
+
+1. I - enquanto não resolvida, em outro processo, questão de que dependa o reconhecimento da existência do crime;
+2. II - enquanto o agente cumpre pena no estrangeiro;
+3. III - enquanto pendentes embargos de declaração ou recursos ao Supremo Tribunal Federal, se estes forem considerados inadmissíveis. (Inciso acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Interrupção da prescrição
+
+§ 5º O curso da prescrição da ação penal interrompe-se:
+
+1. I - pela instauração do processo;
+2. II - pela sentença condenatória ou acórdão condenatório recorríveis; (Inciso com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+3. III - pelo início ou continuação da execução provisória ou definitiva da pena; e (Inciso acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+4. IV - pela reincidência. (Inciso acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+§ 6º A interrupção da prescrição produz efeito relativamente a todos os autores do crime; e nos crimes conexos, que sejam objeto do mesmo processo, a interrupção relativa a qualquer dêles estende-se aos demais.
+
+# Prescrição da execução da pena ou da medida de segurança que a substitui
+
+Art. 126. A prescrição da execução da pena privativa de liberdade ou da medida de segurança que a substitui (art. 113) regula-se pelo tempo fixado na sentença e verifica-se nos mesmos prazos estabelecidos no art. 125, os quais se aumentam de um terço, se o condenado é criminoso habitual ou por tendência.
+
+§ 1º Começa a correr a prescrição:
+
+- a) do dia em que passa em julgado a sentença condenatória ou a que revoga a suspensão condicional da pena ou o livramento condicional;
+- b) do dia em que se interrompe a execução, salvo quando o tempo da interrupção deva computar-se na pena.
+
+
+
+### Images from page 28:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_28.jpg` (full page screenshot)
+
+## Page 29
+
+
+# § 2º
+
+No caso de evadir-se o condenado ou de revogar-se o livramento ou desinternação condicionais, a prescrição se regula pelo restante tempo da execução.
+
+# § 3º
+
+O curso da prescrição da execução da pena suspende-se enquanto o condenado está preso por outro motivo, e interrompe-se pelo início ou continuação do cumprimento da pena, ou pela reincidência.
+
+# Prescrição no caso de reforma ou suspensão de exercício
+
+Art. 127. (Revogado pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Disposições comuns a ambas as espécies de prescrição
+
+Art. 128. Interrompida a prescrição, salvo o caso do § 3º, segunda parte, do art. 126, todo o prazo começa a correr, novamente, do dia da interrupção.
+
+# Redução
+
+Art. 129. São reduzidos de metade os prazos da prescrição, quando o criminoso era, ao tempo do crime, menor de vinte e um anos ou maior de setenta.
+
+# Imprescritibilidade das penas acessórias
+
+Art. 130. É imprescritível a execução das penas acessórias.
+
+# Prescrição no caso de insubmissão
+
+Art. 131. A prescrição começa a correr, no crime de insubmissão, do dia em que o insubmisso atinge a idade de trinta anos.
+
+# Prescrição no caso de deserção
+
+Art. 132. No crime de deserção, embora decorrido o prazo da prescrição, esta só extingue a punibilidade quando o desertor atinge a idade de quarenta e cinco anos, e, se oficial, a de sessenta.
+
+# Declaração de ofício
+
+Art. 133. A prescrição, embora não alegada, deve ser declarada de ofício.
+
+# Reabilitação
+
+Art. 134. A reabilitação alcança quaisquer penas impostas por sentença definitiva.
+
+# § 1º
+
+A reabilitação poderá ser requerida decorridos cinco anos do dia em que for extinta, de qualquer modo, a pena principal ou terminar a execução desta ou da medida de segurança aplicada em substituição (art. 113), ou do dia em que terminar o prazo da suspensão condicional da pena ou do livramento condicional, desde que o condenado:
+
+- a) tenha tido domicílio no País, no prazo acima referido;
+- b) tenha dado, durante esse tempo, demonstração efetiva e constante de bom comportamento público e privado;
+- c) tenha ressarcido o dano causado pelo crime ou demonstre absoluta impossibilidade de o fazer até o dia do pedido, ou exiba documento que comprove a renúncia da vítima ou novação da dívida.
+
+# § 2º
+
+A reabilitação não pode ser concedida:
+
+- a) em favor dos que foram reconhecidos perigosos, salvo prova cabal em contrário;
+
+
+
+### Images from page 29:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_29.jpg` (full page screenshot)
+
+## Page 30
+
+
+
+# PARTE ESPECIAL
+
+# LIVRO I
+
+# DOS CRIMES MILITARES EM TEMPO DE PAZ
+
+# TÍTULO I
+
+# DOS CRIMES CONTRA A SEGURANÇA EXTERNA DO PAÍS
+
+# Hostilidade contra país estrangeiro
+
+Art. 136. Praticar o militar ato de hostilidade contra país estrangeiro, expondo o Brasil a perigo de guerra:
+
+Pena - reclusão, de oito a quinze anos.
+
+# Resultado mais grave
+
+§ 1º Se resulta ruptura de relações diplomáticas, represália ou retorsão:
+
+Pena - reclusão, de dez a vinte e quatro anos.
+
+§ 2º Se resulta guerra:
+
+Pena - reclusão, de doze a trinta anos.
+
+# Prazo para renovação do pedido
+
+§ 3º Negada a reabilitação, não pode ser novamente requerida senão após o decurso de dois anos.
+
+§ 4º Os prazos para o pedido de reabilitação serão contados em dobro no caso de criminoso habitual ou por tendência.
+
+# Revogação
+
+§ 5º A reabilitação será revogada de ofício, ou a requerimento do Ministério Público, se a pessoa reabilitada for condenada, por decisão definitiva, ao cumprimento de pena privativa da liberdade.
+
+# Cancelamento do registro de condenações penais
+
+Art. 135. Declarada a reabilitação, serão cancelados, mediante averbação, os antecedentes criminais.
+
+# Sigilo sobre antecedentes criminais
+
+Parágrafo único. Concedida a reabilitação, o registro oficial de condenações penais não pode ser comunicado senão à autoridade policial ou judiciária, ou ao representante do Ministério Público, para instrução de processo penal que venha a ser instaurado contra o reabilitado.
+
+
+
+### Images from page 30:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_30.jpg` (full page screenshot)
+
+## Page 31
+
+
+# Provocação a país estrangeiro
+
+Art. 137. Provocar o militar, diretamente, país estrangeiro a declarar guerra ou mover hostilidade contra o Brasil ou a intervir em questão que respeite à soberania nacional:
+
+Pena - reclusão, de doze a trinta anos.
+
+# Ato de jurisdição indevida
+
+Art. 138. Praticar o militar, indevidamente, no território nacional, ato de jurisdição de país estrangeiro, ou favorecer a prática de ato dessa natureza:
+
+Pena - reclusão, de cinco a quinze anos.
+
+# Violação de território estrangeiro
+
+Art. 139. Violar o militar território estrangeiro, com o fim de praticar ato de jurisdição em nome do Brasil:
+
+Pena - reclusão, de dois a seis anos.
+
+# Entendimento para empenhar o Brasil à neutralidade ou à guerra
+
+Art. 140. Entrar ou tentar entrar o militar em entendimento com país estrangeiro, para empenhar o Brasil à neutralidade ou à guerra:
+
+Pena - reclusão, de seis a doze anos.
+
+# Entendimento para gerar conflito ou divergência com o Brasil
+
+Art. 141. Entrar em entendimento com país estrangeiro, ou organização nêle existente, para gerar conflito ou divergência de caráter internacional entre o Brasil e qualquer outro país, ou para lhes perturbar as relações diplomáticas:
+
+Pena - reclusão, de quatro a oito anos.
+
+# Resultado mais grave
+
+§ 1º Se resulta ruptura de relações diplomáticas:
+
+Pena - reclusão, de seis a dezoito anos.
+
+§ 2º Se resulta guerra:
+
+Pena - reclusão, de dez a vinte e quatro anos.
+
+# Tentativa contra a soberania do Brasil
+
+Art. 142. Tentar:
+
+- I - submeter o território nacional, ou parte dele, à soberania de país estrangeiro;
+- II - desmembrar, por meio de movimento armado ou tumultos planejados, o território nacional, desde que o fato atente contra a segurança externa do Brasil ou a sua soberania;
+- III - internacionalizar, por qualquer meio, região ou parte do território nacional:
+
+Pena - reclusão, de quinze a trinta anos, para os cabeças; de dez a vinte anos, para os demais agentes.
+
+# Consecução de notícia, informação ou documento para fim de espionagem
+
+Art. 143. Conseguir, para o fim de espionagem militar, notícia, informação ou documento, cujo sigilo seja de interêsse da segurança externa do Brasil:
+
+Pena - reclusão, de quatro a doze anos.
+
+§ 1º A pena é de reclusão de dez a vinte anos:
+
+
+
+### Images from page 31:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_31.jpg` (full page screenshot)
+
+## Page 32
+
+I - se o fato compromete a preparação ou eficiência bélica do Brasil, ou o agente transmite ou fornece, por qualquer meio, mesmo sem remuneração, a notícia, informação ou documento, a autoridade ou pessoa estrangeira;
+
+II - se o agente, em detrimento da segurança externa do Brasil, promove ou mantém no território nacional atividade ou serviço destinado à espionagem;
+
+III - se o agente se utiliza, ou contribui para que outrem se utilize, de meio de comunicação, para dar indicação que ponha ou possa pôr em perigo a segurança externa do Brasil.
+
+# Modalidade culposa
+
+§ 2º Contribuir culposamente para a execução do crime:
+
+Pena - detenção, de seis meses a dois anos, no caso do artigo; ou até quatro anos, no caso do § 1º, nº I.
+
+# Revelação de notícia, informação ou documento
+
+Art. 144. Revelar notícia, informação ou documento, cujo sigilo seja de interêsse da segurança externa do Brasil:
+
+Pena - reclusão, de três a oito anos.
+
+# Fim da espionagem militar
+
+§ 1º Se o fato é cometido com o fim de espionagem militar:
+
+Pena - reclusão, de seis a doze anos.
+
+# Resultado mais grave
+
+§ 2º Se o fato compromete a preparação ou a eficiência bélica do país:
+
+Pena - reclusão, de dez a vinte anos.
+
+# Modalidade culposa
+
+§ 3º Se a revelação é culposa:
+
+Pena - detenção, de seis meses a dois anos, no caso do artigo; ou até quatro anos, nos casos dos §§ 1º e 2.
+
+# Turbação de objeto ou documento
+
+Art. 145. Suprimir, subtrair, deturpar, alterar, desviar, ainda que temporariamente, objeto ou documento concernente à segurança externa do Brasil:
+
+Pena - reclusão, de três a oito anos.
+
+# Resultado mais grave
+
+§ 1º Se o fato compromete a segurança ou a eficiência bélica do país:
+
+Pena - Reclusão, de dez a vinte anos.
+
+# Modalidade culposa
+
+§ 2º Contribuir culposamente para o fato:
+
+Pena - detenção, de seis meses a dois anos.
+
+### Images from page 32:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_32.jpg` (full page screenshot)
+
+## Page 33
+
+
+Penetração com o fim de espionagem
+
+Art. 146. Penetrar, sem licença, ou introduzir-se clandestinamente ou sob falso pretexto, em lugar sujeito à administração militar, ou centro industrial a serviço de construção ou fabricação sob fiscalização militar, para colher informação destinada a país estrangeiro ou agente seu:
+
+Pena - reclusão, de três a oito anos.
+
+Parágrafo único. Entrar, em local referido no artigo, sem licença de autoridade competente, munido de máquina fotográfica ou qualquer outro meio hábil para a prática de espionagem:
+
+Pena - reclusão, até três anos.
+
+Desenho ou levantamento de plano ou planta de local militar ou de engenho de guerra
+
+Art. 147. Fazer desenho ou levantar plano ou planta de fortificação, quartel, fábrica, arsenal, hangar ou aeródromo, ou de navio, aeronave ou engenho de guerra motomecanizado, utilizados ou em construção sob administração ou fiscalização militar, ou fotografá-los ou filmá-los:
+
+Pena - reclusão, até quatro anos, se o fato não constitui crime mais grave.
+
+Sobrevôo em local interdito
+
+Art. 148. Sobrevoar local declarado interdito:
+
+Pena - reclusão, até três anos.
+
+TÍTULO II
+
+DOS CRIMES CONTRA A AUTORIDADE OU DISCIPLINA MILITAR
+
+CAPÍTULO I
+
+DO MOTIM E DA REVOLTA
+
+Motim
+
+Art. 149. Reunirem-se militares: (“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+1. agindo contra a ordem recebida de superior, ou negando-se a cumpri-la;
+2. recusando obediência a superior, quando estejam agindo sem ordem ou praticando violência;
+3. assentindo em recusa conjunta de obediência, ou em resistência ou violência, em comum, contra superior;
+4. ocupando quartel, fortaleza, arsenal, fábrica ou estabelecimento militar, ou dependência de qualquer deles, hangar, aeródromo ou aeronave, navio ou viatura militar, ou utilizando-se de qualquer daqueles locais ou meios de transporte, para ação militar, ou prática de violência, em desobediência a ordem superior ou em detrimento da ordem ou da disciplina militar:
+
+Pena - reclusão, de quatro a oito anos, com aumento de um terço para os cabeças.
+
+Revolta
+
+Parágrafo único. Se os agentes estavam armados:
+
+Pena - reclusão, de oito a vinte anos, com aumento de um terço para os cabeças.
+
+
+
+### Images from page 33:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_33.jpg` (full page screenshot)
+
+## Page 34
+
+
+# Organização de grupo para a prática de violência
+
+Art. 150. Reunirem-se dois ou mais militares, com armamento ou material bélico de propriedade militar, praticando violência à pessoa ou à coisa pública ou particular em lugar sujeito ou não à administração militar: (“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Pena - reclusão, de quatro a oito anos.
+
+# Omissão de lealdade militar
+
+Art. 151. Deixar o militar de levar ao conhecimento do superior o motim ou a revolta de cuja preparação teve notícia ou, se presenciar o ato criminoso, não usar de todos os meios ao seu alcance para impedi-lo: (“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Pena - reclusão, de três a cinco anos.
+
+# Conspiração
+
+Art. 152. Concertarem-se militares para a prática do crime previsto no art. 149 deste Código: (“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Pena - reclusão, de três a cinco anos.
+
+# Isenção de pena
+
+Parágrafo único. É isento de pena aquele que, antes da execução do crime e quando era ainda possível evitar-lhe as conseqüências, denuncia o ajuste de que participou.
+
+# Cumulação de penas
+
+Art. 153. As penas dos arts. 149 e 150 são aplicáveis sem prejuízo das correspondentes à violência.
+
+# CAPÍTULO II
+
+# DA ALICIAÇÃO E DO INCITAMENTO
+
+# Aliciação para motim ou revolta
+
+Art. 154. Aliciar militar para a prática de qualquer dos crimes previstos no Capítulo I deste Título: (“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Pena - reclusão, de dois a quatro anos.
+
+# Incitamento
+
+Art. 155. Incitar à desobediência, à indisciplina ou à prática de crime militar:
+
+Pena - reclusão, de dois a quatro anos.
+
+Parágrafo único. Na mesma pena incorre quem introduz, afixa ou distribui, em lugar sujeito à administração militar, material impresso, manuscrito ou produzido por meio eletrônico, fotocopiado ou gravado que contenha incitamento à prática dos atos previstos no caput deste artigo. (Parágrafo único com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+
+
+### Images from page 34:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_34.jpg` (full page screenshot)
+
+## Page 35
+
+Apologia de fato criminoso ou do seu autor
+
+# Art. 156.
+
+Fazer apologia de fato que a lei militar considera crime, ou do autor do mesmo, em lugar sujeito à administração militar:
+
+Pena - detenção, de seis meses a um ano.
+
+# CAPÍTULO III
+
+# DA VIOLÊNCIA CONTRA SUPERIOR OU MILITAR DE SERVIÇO
+
+# Violência contra superior
+
+# Art. 157.
+
+Praticar violência contra superior:
+
+Pena - detenção, de três meses a dois anos.
+
+# Formas qualificadas
+
+§ 1º Se o superior é comandante da unidade a que pertence o agente, ou oficial general:
+
+Pena - reclusão, de três a nove anos.
+
+§ 2º Se a violência é praticada com arma, a pena é aumentada de um terço.
+
+§ 3º Se da violência resulta lesão corporal, aplica-se, além da pena da violência, a do crime contra a pessoa.
+
+§ 4º Se da violência resulta morte:
+
+Pena - reclusão, de doze a trinta anos.
+
+§ 5º A pena é aumentada da sexta parte, se o crime ocorre em serviço.
+
+# Violência contra militar de serviço
+
+# Art. 158.
+
+Praticar violência contra oficial de dia, de serviço, ou de quarto, ou contra sentinela, vigia ou plantão:
+
+Pena - reclusão, de três a oito anos.
+
+# Formas qualificadas
+
+§ 1º Se a violência é praticada com arma, a pena é aumentada de um terço.
+
+§ 2º Se da violência resulta lesão corporal, aplica-se, além da pena da violência, a do crime contra a pessoa.
+
+§ 3º Se da violência resulta morte:
+
+Pena - reclusão, de doze a trinta anos.
+
+# Ausência de dolo no resultado
+
+# Art. 159.
+
+Quando da violência resulta morte ou lesão corporal e as circunstâncias evidenciam que o agente não quis o resultado nem assumiu o risco de produzi-lo, a pena do crime contra a pessoa é diminuída de metade.
+
+# CAPÍTULO IV
+
+# DO DESRESPEITO A SUPERIOR E A SÍMBOLO NACIONAL OU A FARDA
+
+# Desrespeito a superior
+
+### Images from page 35:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_35.jpg` (full page screenshot)
+
+## Page 36
+
+
+Art. 160. Desrespeitar superior diante de outro militar:
+
+Pena - detenção, de três meses a um ano, se o fato não constitui crime mais grave.
+
+Desrespeito a comandante, oficial general ou oficial de serviço
+
+Parágrafo único. Se o fato é praticado contra o comandante da unidade a que pertence o agente, oficial-general, oficial de dia, de serviço ou de quarto, a pena é aumentada da metade.
+
+Desrespeito a símbolo nacional
+
+Art. 161. Praticar o militar diante da tropa, ou em lugar sujeito à administração militar, ato que se traduza em ultraje a símbolo nacional:
+
+Pena - detenção, de um a dois anos.
+
+Despojamento desprezível
+
+Art. 162. Despojar-se de uniforme, condecoração militar, insígnia ou distintivo, por menosprezo ou vilipêndio:
+
+Pena - detenção, de seis meses a um ano.
+
+Parágrafo único. A pena é aumentada da metade, se o fato é praticado diante da tropa, ou em público.
+
+# CAPÍTULO V
+
+# DA INSUBORDINAÇÃO
+
+Recusa de obediência
+
+Art. 163. Recusar obedecer a ordem do superior sobre assunto ou matéria de serviço, ou relativamente a dever imposto em lei, regulamento ou instrução:
+
+Pena - detenção, de um a dois anos, se o fato não constitui crime mais grave.
+
+Oposição a ordem de sentinela
+
+Art. 164. Opor-se às ordens da sentinela:
+
+Pena - detenção, de seis meses a um ano, se o fato não constitui crime mais grave.
+
+Reunião ilícita
+
+Art. 165. Promover a reunião de militares, ou nela tomar parte, para discussão de ato de superior ou assunto atinente à disciplina militar:
+
+Pena - detenção, de seis meses a um ano a quem promove a reunião; de dois a seis meses a quem dela participa, se o fato não constitui crime mais grave.
+
+Publicação ou crítica indevida
+
+Art. 166. Publicar o militar ou assemelhado, sem licença, ato ou documento oficial, ou criticar publicamente ato de seu superior ou assunto atinente à disciplina militar, ou a qualquer resolução do Governo:
+
+Pena - detenção, de dois meses a um ano, se o fato não constitui crime mais grave.
+
+# CAPÍTULO VI
+
+# DA USURPAÇÃO E DO EXCESSO OU ABUSO DE AUTORIDADE
+
+
+
+### Images from page 36:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_36.jpg` (full page screenshot)
+
+## Page 37
+
+
+# Assunção de comando sem ordem ou autorização
+
+Art. 167. Assumir o militar, sem ordem ou autorização, salvo se em grave emergência, qualquer comando, ou a direção de estabelecimento militar:
+
+Pena - reclusão, de dois a quatro anos, se o fato não constitui crime mais grave.
+
+# Conservação ilegal de comando
+
+Art. 168. Conservar comando ou função legitimamente assumida, depois de receber ordem de seu superior para deixá-los ou transmiti-los a outrem:
+
+Pena - detenção, de um a três anos.
+
+# Operação militar sem ordem superior
+
+Art. 169. Determinar o comandante, sem ordem superior e fora dos casos em que essa se dispensa, movimento de tropa ou ação militar:
+
+Pena - reclusão, de três a cinco anos.
+
+# Forma qualificada
+
+Parágrafo único. Se o movimento da tropa ou ação militar é em território estrangeiro ou contra força, navio ou aeronave de país estrangeiro:
+
+Pena - reclusão, de quatro a oito anos, se o fato não constitui crime mais grave.
+
+# Ordem arbitrária de invasão
+
+Art. 170. Ordenar, arbitrariamente, o comandante de força, navio, aeronave ou engenho de guerra motomecanizado a entrada de comandados seus em águas ou território estrangeiro, ou sobrevoá-los:
+
+Pena - detenção, de 1 (um) a 2 (dois) anos. (Pena com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Uso indevido por militar de uniforme, distintivo ou insígnia
+
+Art. 171. Usar o militar, indevidamente, uniforme, distintivo ou insígnia de posto ou de graduação superior: (“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Pena - detenção, de seis meses a um ano, se o fato não constitui crime mais grave.
+
+# Uso indevido de uniforme, distintivo ou insígnia militar por qualquer pessoa
+
+Art. 172. Usar, indevidamente, uniforme, distintivo ou insígnia militar a que não tenha direito:
+
+Pena - detenção, até seis meses.
+
+# Abuso de requisição militar
+
+Art. 173. Abusar do direito de requisição militar, excedendo os podêres conferidos ou recusando cumprir dever imposto em lei:
+
+Pena - detenção, de um a dois anos.
+
+# Rigor excessivo
+
+Art. 174. Exceder a faculdade de punir o subordinado, fazendo-o com rigor não permitido, ou ofendendo-o por palavra, ato ou escrito:
+
+### Images from page 37:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_37.jpg` (full page screenshot)
+
+## Page 38
+
+
+
+Pena - detenção, de 1 (um) a 2 (dois) anos, se o fato não constitui crime mais grave.
+
+(Pena com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Violência contra inferior hierárquico
+
+(Nome jurídico com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Art. 175.
+
+Praticar violência contra inferior hierárquico:
+
+Pena - detenção, de 3 (três) meses a 2 (dois) anos.
+
+(Artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Resultado mais grave
+
+Parágrafo único. Se da violência resulta lesão corporal ou morte é também aplicada a pena do crime contra a pessoa, atendendo-se, quando for o caso, ao disposto no art. 159.
+
+# Ofensa aviltante a inferior hierárquico
+
+(Nome jurídico com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Art. 176.
+
+Ofender inferior hierárquico, mediante ato de violência que, por natureza ou pelo meio empregado, seja considerado aviltante:
+
+(“Caput” do artigo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Pena - detenção, de 1 (um) a 2 (dois) anos.
+
+(Pena com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Parágrafo único. Aplica-se o disposto no parágrafo único do artigo anterior.
+
+# CAPÍTULO VII
+
+# DA RESISTÊNCIA
+
+# Resistência mediante ameaça ou violência
+
+# Art. 177.
+
+Opor-se à execução de ato legal, mediante ameaça ou violência ao executor, ou a quem esteja prestando auxílio:
+
+Pena - detenção, de seis meses a dois anos.
+
+# Forma qualificada
+
+§ 1º Se o ato não se executa em razão da resistência:
+
+Pena - reclusão de dois a quatro anos.
+
+§ 1º-A. Se da resistência resulta morte:
+
+(Parágrafo acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Pena - reclusão, de 6 (seis) a 20 (vinte) anos.
+
+(Pena acrescida pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Cumulação de penas
+
+§ 2º As penas previstas no caput e no § 1º deste artigo são aplicáveis sem prejuízo das correspondentes à violência.
+
+(Parágrafo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# CAPÍTULO VIII
+
+# DA FUGA, EVASÃO, ARREBATAMENTO E
+
+
+
+### Images from page 38:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_38.jpg` (full page screenshot)
+
+## Page 39
+
+# AMOTINAMENTO DE PRESOS
+
+# Fuga de preso ou internado
+
+Art. 178. Promover ou facilitar a fuga de pessoa legalmente presa ou submetida a medida de segurança detentiva:
+
+Pena - detenção, de seis meses a dois anos.
+
+# Formas qualificadas
+
+§ 1º Se o crime é praticado a mão armada ou por mais de uma pessoa, ou mediante arrombamento:
+
+Pena - reclusão, de dois a seis anos.
+
+§ 2º Se há emprego de violência contra pessoa, aplica-se também a pena correspondente à violência.
+
+§ 3º Se o crime é praticado por pessoa sob cuja guarda, custódia ou condução está o preso ou internado:
+
+Pena - reclusão, até quatro anos.
+
+# Modalidade culposa
+
+Art. 179. Deixar, por culpa, fugir pessoa legalmente presa, confiada à sua guarda ou condução:
+
+Pena - detenção, de três meses a um ano.
+
+# Evasão de preso ou internado
+
+Art. 180. Evadir-se, ou tentar evadir-se o preso ou internado, usando de violência contra a pessoa:
+
+Pena - detenção, de um a dois anos, além da correspondente à violência.
+
+§ 1º Se a evasão ou a tentativa ocorre mediante arrombamento da prisão militar:
+
+Pena - detenção, de seis meses a um ano.
+
+# Cumulação de penas
+
+§ 2º Se ao fato sucede deserção, aplicam-se cumulativamente as penas correspondentes.
+
+# Arrebatamento de preso ou internado
+
+Art. 181. Arrebatar preso ou internado, a fim de maltratá-lo, do poder de quem o tenha sob guarda ou custódia militar:
+
+Pena - reclusão, até quatro anos, além da correspondente à violência.
+
+# Amotinamento
+
+Art. 182. Amotinarem-se presos, ou internados, perturbando a disciplina do recinto de prisão militar:
+
+Pena - reclusão, até três anos, aos cabeças; aos demais, detenção de um a dois anos.
+
+# Responsabilidade de participe ou de oficial
+
+Parágrafo único. Na mesma pena incorre quem participa do amotinamento ou, sendo oficial e estando presente, não usa os meios ao seu alcance para debelar o amotinamento ou evitar-lhe as conseqüências.
+
+### Images from page 39:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_39.jpg` (full page screenshot)
+
+## Page 40
+
+
+# TÍTULO III
+
+# DOS CRIMES CONTRA O SERVIÇO MILITAR E O DEVER MILITAR
+
+# CAPÍTULO I
+
+# DA INSUBMISSÃO
+
+# Insubmissão
+
+Art. 183. Deixar de apresentar-se o convocado à incorporação, dentro do prazo que lhe foi marcado, ou, apresentando-se, ausentar-se antes do ato oficial de incorporação:
+
+Pena - impedimento, de três meses a um ano.
+
+# Caso assimilado
+
+§ 1º Na mesma pena incorre quem, dispensado temporariamente da incorporação, deixa de se apresentar, decorrido o prazo de licenciamento.
+
+# Diminuição da pena
+
+§ 2º A pena é diminuída de um terço:
+
+- a) pela ignorância ou a errada compreensão dos atos da convocação militar, quando escusáveis;
+- b) pela apresentação voluntária dentro do prazo de um ano, contado do último dia marcado para a apresentação.
+
+# Criação ou simulação de incapacidade física
+
+Art. 184. Criar ou simular incapacidade física, que inabilite o convocado para o serviço militar:
+
+Pena - detenção, de seis meses a dois anos.
+
+# Substituição de convocado
+
+Art. 185. Substituir-se o convocado por outrem na apresentação ou na inspeção de saúde.
+
+Pena - detenção, de seis meses a dois anos.
+
+Parágrafo único. Na mesma pena incorre quem substitui o convocado.
+
+# Favorecimento a convocado
+
+Art. 186. Dar asilo a convocado, ou tomá-lo a seu serviço, ou proporcionar-lhe ou facilitar-lhe transporte ou meio que obste ou dificulte a incorporação, sabendo ou tendo razão para saber que cometeu qualquer dos crimes previstos neste capítulo:
+
+Pena - detenção, de três meses a um ano.
+
+# Isenção de pena
+
+Parágrafo único. Se o favorecedor é ascendente, descendente, cônjuge ou irmão do criminoso, fica isento de pena.
+
+# CAPÍTULO II
+
+# DA DESERÇÃO
+
+
+
+### Images from page 40:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_40.jpg` (full page screenshot)
+
+## Page 41
+
+
+# Deserção
+
+Art. 187. Ausentar-se o militar, sem licença, da unidade em que serve, ou do lugar em que deve permanecer, por mais de oito dias:
+
+Pena - detenção, de seis meses a dois anos; se oficial, a pena é agravada.
+
+# Casos assimilados
+
+Art. 188. Na mesma pena incorre o militar que:
+
+- I - não se apresenta no lugar designado, dentro de oito dias, findo o prazo de trânsito ou férias;
+- II - deixa de se apresentar a autoridade competente, dentro do prazo de oito dias, contados daquele em que termina ou é cassada a licença ou agregação ou em que é declarado o estado de sítio ou de guerra;
+- III - tendo cumprido a pena, deixa de se apresentar, dentro do prazo de oito dias;
+- IV - consegue exclusão do serviço ativo ou situação de inatividade, criando ou simulando incapacidade.
+
+Art. 189. Nos crimes dos arts. 187 e 188, ns. I, II e III:
+
+# Atenuante especial
+
+- I - se o agente se apresenta voluntariamente dentro em oito dias após a consumação do crime, a pena é diminuída de metade; e de um terço, se de mais de oito dias e até sessenta;
+
+# Agravante especial
+
+- II - se a deserção ocorre em unidade estacionada em fronteira ou país estrangeiro, a pena é agravada de um terço.
+
+# Deserção especial
+
+Art. 190. Deixar o militar de apresentar-se no momento da partida do navio ou aeronave, de que é tripulante, ou do deslocamento da unidade ou força em que serve:
+
+Pena - detenção, até três meses, se após a partida ou deslocamento se apresentar, dentro de vinte e quatro horas, à autoridade militar do lugar, ou, na falta desta, à autoridade policial, para ser comunicada a apresentação ao comando militar competente. (“Caput” do artigo com redação dada pela Lei nº 9.764, de 18/12/1998)
+
+§ 1º Se a apresentação se der dentro de prazo superior a vinte e quatro horas e não excedente a cinco dias:
+
+Pena - detenção, de dois a oito meses. (Parágrafo com redação dada pela Lei nº 9.764, de 18/12/1998)
+
+§ 2º Se superior a cinco dias e não excedente a oito dias:
+
+Pena - detenção, de três meses a um ano. (Parágrafo com redação dada pela Lei nº 9.764, de 18/12/1998)
+
+§ 2º-A. Se superior a oito dias:
+
+Pena - detenção, de seis meses a dois anos. (Parágrafo acrescido pela Lei nº 9.764, de 18/12/1998)
+
+
+
+### Images from page 41:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_41.jpg` (full page screenshot)
+
+## Page 42
+
+
+
+# Aumento de pena
+
+§ 3º A pena é aumentada de um terço, se se tratar de sargento, subtenente ou suboficial, e de metade, se oficial. (Parágrafo com redação dada pela Lei nº 9.764, de 18/12/1998)
+
+# Concerto para deserção
+
+# Art. 191. Concertarem-se militares para a prática da deserção:
+
+- I - se a deserção não chega a consumar-se:
+Pena - detenção, de três meses a um ano.
+- II - se consumada a deserção:
+Pena - reclusão, de dois a quatro anos.
+
+# Deserção por evasão ou fuga
+
+# Art. 192. Evadir-se o militar do poder da escolta, ou de recinto de detenção ou de prisão, ou fugir em seguida à prática de crime para evitar prisão, permanecendo ausente por mais de oito dias:
+
+Pena - detenção, de seis meses a dois anos.
+
+# Favorecimento a desertor
+
+# Art. 193. Dar asilo a desertor, ou tomá-lo a seu serviço, ou proporcionar-lhe ou facilitar-lhe transporte ou meio de ocultação, sabendo ou tendo razão para saber que cometeu qualquer dos crimes previstos neste capítulo:
+
+Pena - detenção, de quatro meses a um ano.
+
+Parágrafo único. Se o favorecedor é ascendente, descendente, cônjuge ou irmão do criminoso, fica isento de pena.
+
+# Omissão de oficial
+
+# Art. 194. Deixar o oficial de proceder contra desertor, sabendo, ou devendo saber encontrar-se entre os seus comandados:
+
+Pena - detenção, de seis meses a um ano.
+
+# CAPÍTULO III
+
+# DO ABANDONO DE PÔSTO E DE OUTROS CRIMES EM SERVIÇO
+
+# Abandono de posto
+
+# Art. 195. Abandonar, sem ordem superior, o posto ou lugar de serviço que lhe tenha sido designado, ou o serviço que lhe cumpria, antes de terminá-lo:
+
+Pena - detenção, de três meses a um ano.
+
+# Descumprimento de missão
+
+# Art. 196. Deixar o militar de desempenhar a missão que lhe foi confiada:
+
+Pena - detenção, de seis meses a dois anos, se o fato não constitui crime mais grave.
+
+
+
+### Images from page 42:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_42.jpg` (full page screenshot)
+
+## Page 43
+
+§ 1º Se é oficial o agente, a pena é aumentada de um terço.
+
+§ 2º Se o agente exercia função de comando, a pena é aumentada de metade.
+
+# Modalidade culposa
+
+§ 3º Se a abstenção é culposa:
+
+Pena - detenção, de três meses a um ano.
+
+# Retenção indevida
+
+Art. 197. Deixar o oficial de restituir, por ocasião da passagem de função, ou quando lhe é exigido, objeto, plano, carta, cifra, código ou documento que lhe haja sido confiado:
+
+Pena - detenção, até 6 (seis) meses, se o fato não constitui crime mais grave. (Pena com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Parágrafo único. Se o objeto, plano, carta, cifra, código, ou documento envolve ou constitui segredo relativo à segurança nacional:
+
+Pena - detenção, de três meses a um ano, se o fato não constitui crime mais grave.
+
+# Omissão de eficiência da força
+
+Art. 198. Deixar o comandante de manter a força sob seu comando em estado de eficiência:
+
+Pena - detenção, de 3 (três) meses a 1 (um) ano. (Pena com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Omissão de providências para evitar danos
+
+Art. 199. Deixar o comandante de empregar todos os meios ao seu alcance para evitar perda, destruição ou inutilização de instalações militares, navio, aeronave ou engenho de guerra motomecanizado em perigo:
+
+Pena - reclusão, de dois a oito anos.
+
+# Modalidade culposa
+
+Parágrafo único. Se a abstenção é culposa:
+
+Pena - detenção, de três meses a um ano.
+
+# Omissão de providências para salvar comandados
+
+Art. 200. Deixar o comandante, em ocasião de incêndio, naufrágio, encalhe, colisão, ou outro perigo semelhante, de tomar todas as providências adequadas para salvar os seus comandados e minorar as consequências do sinistro, não sendo o último a sair de bordo ou a deixar a aeronave ou o quartel ou sede militar sob seu comando:
+
+Pena - reclusão, de dois a seis anos.
+
+# Modalidade culposa
+
+Parágrafo único. Se a abstenção é culposa:
+
+Pena - detenção, de seis meses a dois anos.
+
+### Images from page 43:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_43.jpg` (full page screenshot)
+
+## Page 44
+
+
+
+# Omissão de socorro
+
+Art. 201. Deixar o comandante de socorrer, sem justa causa, navio de guerra ou mercante, nacional ou estrangeiro, ou aeronave, em perigo, ou náufragos que hajam pedido socorro:
+
+Pena - detenção, de 1 (um) a 2 (dois) anos. (Pena com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Embriaguez em serviço
+
+Art. 202. Embriagar-se o militar, quando em serviço, ou apresentar-se embriagado para prestá-lo:
+
+Pena - detenção, de seis meses a dois anos.
+
+# Dormir em serviço
+
+Art. 203. Dormir o militar, quando em serviço, como oficial de quarto ou de ronda, ou em situação equivalente, ou, não sendo oficial, em serviço de sentinela, vigia, plantão às máquinas, ao leme, de ronda ou em qualquer serviço de natureza semelhante:
+
+Pena - detenção, de três meses a um ano.
+
+# CAPÍTULO IV
+
+# DO EXERCÍCIO DE COMÉRCIO
+
+# Exercício de comércio por oficial
+
+Art. 204. Comerciar o oficial da ativa, ou tomar parte na administração ou gerência de sociedade comercial, ou dela ser sócio ou participar, exceto como acionista ou cotista em sociedade anônima, ou por cotas de responsabilidade limitada:
+
+Pena - detenção, de 1 (um) a 2 (dois) anos. (Pena com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# TÍTULO IV
+
+# DOS CRIMES CONTRA A PESSOA
+
+# CAPÍTULO I
+
+# DO HOMICÍDIO
+
+# Homicídio simples
+
+Art. 205. Matar alguém:
+
+Pena - reclusão, de seis a vinte anos.
+
+# Minoração facultativa da pena
+
+§ 1º Se o agente comete o crime impelido por motivo de relevante valor social ou moral, ou sob o domínio de violenta emoção, logo em seguida a injusta provocação da vítima, o juiz pode reduzir a pena, de um sexto a um terço.
+
+# Homicídio qualificado
+
+§ 2º Se o homicídio é cometido:
+
+I - por motivo fútil;
+
+
+
+### Images from page 44:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_44.jpg` (full page screenshot)
+
+## Page 45
+
+# II
+
+mediante paga ou promessa de recompensa, por cupidez, para excitar ou saciar desejos sexuais, ou por outro motivo torpe;
+
+III - com emprego de veneno, asfixia, tortura, fogo, explosivo, ou qualquer outro meio dissimulado ou cruel, ou de que possa resultar perigo comum;
+
+IV - à traição, de emboscada, com surpresa ou mediante outro recurso insidioso, que dificultou ou tornou impossível a defesa da vítima;
+
+V - para assegurar a execução, a ocultação, a impunidade ou vantagem de outro crime;
+
+VI - prevalecendo-se o agente da situação de serviço:
+
+VII - contra autoridade ou agente descrito nos arts. 142 e 144 da Constituição Federal, integrantes do sistema prisional e da Força Nacional de Segurança Pública, no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente consanguíneo até o terceiro grau, em razão dessa condição: (Inciso acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Pena - reclusão, de doze a trinta anos.
+
+# Homicídio culposo
+
+Art. 206. Se o homicídio é culposo:
+
+Pena - detenção, de um a quatro anos.
+
+# Aumento de pena
+
+(Nome jurídico acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+§ 1º A pena é aumentada de 1/3 (um terço): (Parágrafo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+I - se o crime resulta da inobservância de regra técnica de profissão, arte ou ofício; (Inciso acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+II - se o agente deixa de prestar imediato socorro à vítima, não procura diminuir as consequências do seu ato ou foge para evitar prisão em flagrante. (Inciso acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Multiplicidade de vítimas
+
+§ 2º Se, em conseqüência de uma só ação ou omissão culposa, ocorre morte de mais de uma pessoa ou também lesões corporais em outras pessoas, a pena é aumentada de um sexto até metade.
+
+§ 3º O juízo poderá deixar de aplicar a pena se as consequências da infração atingirem o próprio agente de forma tão grave que a sanção penal se torne desnecessária. (Parágrafo acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Provocação direta ou auxílio a suicídio
+
+Art. 207. Instigar ou induzir alguém a suicidar-se, ou prestar-lhe auxílio para que o faça, vindo o suicídio consumar-se:
+
+Pena - reclusão, de dois a seis anos.
+
+### Images from page 45:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_45.jpg` (full page screenshot)
+
+## Page 46
+
+
+Aumento de pena (Nome jurídico com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# § 1º
+
+Se o crime é praticado por motivo egoístico, ou a vítima é menor ou tem diminuída, por qualquer motivo, a resistência moral, a pena é duplicada. (Parágrafo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Provocação indireta ao suicídio
+
+# § 2º
+
+Infligir, desumana e reiteradamente, maus-tratos a alguém, sob sua autoridade ou dependência, levando-o, em razão disso, à prática de suicídio: (Parágrafo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Pena - detenção, de 1 (um) a 4 (quatro) anos. (Pena acrescida pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Redução de pena
+
+# § 3º
+
+Se o suicídio é apenas tentado, e da tentativa resulta lesão grave, a pena é reduzida de um a dois terços.
+
+# CAPÍTULO II
+
+# DO GENOCÍDIO
+
+# Genocídio
+
+# Art. 208.
+
+Matar membros de um grupo nacional, étnico, religioso ou pertencente a determinada raça, com o fim de destruição total ou parcial desse grupo:
+
+Pena - reclusão, de quinze a trinta anos.
+
+# Casos assimilados
+
+# Parágrafo único.
+
+Será punido com reclusão, de quatro a quinze anos, quem, com o mesmo fim:
+
+- I - inflige lesões graves a membros do grupo;
+- II - submete o grupo a condições de existência, físicas ou morais, capazes de ocasionar a eliminação de todos os seus membros ou parte deles;
+- III - força o grupo à sua dispersão;
+- IV - impõe medidas destinadas a impedir os nascimentos no seio do grupo;
+- V - efetua coativamente a transferência de crianças do grupo para outro grupo.
+
+# CAPÍTULO III
+
+# DA LESÃO CORPORAL E DA RIXA
+
+# Lesão leve
+
+# Art. 209.
+
+Ofender a integridade corporal ou a saúde de outrem:
+
+Pena - detenção, de três meses a um ano.
+
+# Lesão grave
+
+# § 1º
+
+Se se produz, dolosamente, aceleração de parto, perigo de vida, debilidade permanente de membro, sentido ou função, ou incapacidade para as ocupações habituais, por
+
+
+
+### Images from page 46:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_46.jpg` (full page screenshot)
+
+## Page 47
+
+
+mais de 30 (trinta) dias: (Parágrafo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Pena - reclusão, até cinco anos.
+
+§ 2º Se se produz, dolosamente, enfermidade incurável, perda ou inutilização de membro, sentido ou função, incapacidade permanente para o trabalho, deformidade duradoura ou aborto: (Parágrafo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Pena - reclusão, de dois a oito anos.
+
+# Lesão qualificada pelo resultado
+
+(Nome jurídico com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+§ 3º Se os resultados previstos nos §§ 1º e 2º deste artigo forem causados culposamente: (Parágrafo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Pena - detenção, de 1 (um) a 4 (quatro) anos. (Pena acrescida pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+§ 3º-A. Se da lesão resultar morte e as circunstâncias evidenciarem que o agente não quis o resultado nem assumiu o risco de produzi-lo: (Parágrafo acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Pena - reclusão, de 4 (quatro) a 12 (doze) anos. (Pena acrescida pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Minoração facultativa da pena
+
+§ 4º Se o agente comete o crime impelido por motivo de relevante valor moral ou social ou sob o domínio de violenta emoção, logo em seguida a injusta provocação da vítima, o juiz pode reduzir a pena, de um sexto a um terço.
+
+§ 5º No caso de lesões leves, se estas são recíprocas, não se sabendo qual dos contendores atacou primeiro, ou quando ocorre qualquer das hipóteses do parágrafo anterior, o juiz pode diminuir a pena de um a dois terços.
+
+# Lesão levíssima
+
+§ 6º No caso de lesões levíssimas, o juiz pode considerar a infração como disciplinar.
+
+# Lesão culposa
+
+Art. 210. Se a lesão é culposa:
+
+Pena - detenção, de dois meses a um ano.
+
+# Aumento de pena
+
+(Nome jurídico reposicionado pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+§ 1º A pena é aumentada de 1/3 (um terço) se o crime resulta da inobservância de regra técnica de profissão, arte ou ofício, ou se o agente deixa de prestar imediato socorro à vítima, não procura diminuir as consequências do seu ato ou foge para evitar prisão em flagrante. (Parágrafo com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+§ 2º Se, em conseqüência de uma só ação ou omissão culposa, ocorrem lesões em várias pessoas, a pena é aumentada de um sexto até metade.
+
+
+
+### Images from page 47:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_47.jpg` (full page screenshot)
+
+## Page 48
+
+
+
+# § 3º
+
+O juiz poderá deixar de aplicar a pena se as consequências da infração atingirem o próprio agente de forma tão grave que a sanção penal se torne desnecessária. (Parágrafo acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Participação em rixa
+
+# Art. 211.
+
+Participar de rixa, salvo para separar os contendores:
+
+Pena - detenção, até dois meses.
+
+Parágrafo único. Se ocorre morte ou lesão grave, aplica-se, pelo fato de participação na rixa, a pena de detenção, de seis meses a dois anos.
+
+# CAPÍTULO IV
+
+# DA PERICLITAÇÃO DA VIDA OU DA SAÚDE
+
+# Abandono de pessoa
+
+# Art. 212.
+
+Abandonar o militar pessoa que está sob seu cuidado, guarda, vigilância ou autoridade e, por qualquer motivo, incapaz de defender-se dos riscos resultantes do abandono:
+
+Pena - detenção, de seis meses a três anos.
+
+# Formas qualificadas pelo resultado
+
+§ 1º Se do abandono resulta lesão grave:
+
+Pena - reclusão, até cinco anos.
+
+§ 2º Se resulta morte:
+
+Pena - reclusão, de quatro a doze anos.
+
+# Aumento de pena
+
+(Nome jurídico acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+§ 3º As penas cominadas neste artigo são aumentadas de 1/3 (um terço):
+
+1. se o abandono ocorre em lugar ermo;
+2. se o agente é ascendente ou descendente, cônjuge, irmão, tutor ou curador da vítima;
+3. se a vítima é maior de 60 (sessenta) anos, menor de 14 (quatorze) anos ou pessoa com deficiência. (Parágrafo acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Maus tratos
+
+# Art. 213.
+
+Expor a perigo a vida ou saúde, em lugar sujeito à administração militar ou no exercício de função militar, de pessoa sob sua autoridade, guarda ou vigilância, para o fim de educação, instrução, tratamento ou custódia, quer privando-a de alimentação ou cuidados indispensáveis, quer sujeitando-a a trabalhos excessivos ou inadequados, quer abusando de meios de correção ou disciplina:
+
+Pena - detenção, de dois meses a um ano.
+
+# Formas qualificadas pelo resultado
+
+§ 1º Se do fato resulta lesão grave:
+
+Pena - reclusão, até quatro anos.
+
+§ 2º Se resulta morte:
+
+### Images from page 48:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_48.jpg` (full page screenshot)
+
+## Page 49
+
+
+Pena - reclusão, de dois a dez anos.
+
+§ 3º A pena é aumentada de 1/3 (um terço) se o crime é praticado contra pessoa menor de 14 (quatorze) anos, maior de 60 (sessenta) anos ou com deficiência. (Parágrafo acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# CAPÍTULO V
+
+# DOS CRIMES CONTRA A HONRA
+
+# Calúnia
+
+Art. 214. Caluniar alguém, imputando-lhe falsamente fato definido como crime:
+
+Pena - detenção, de seis meses a dois anos.
+
+§ 1º Na mesma pena incorre quem, sabendo falsa a imputação, a propala ou divulga.
+
+# Exceção da verdade
+
+§ 2º A prova da verdade do fato imputado exclui o crime, mas não é admitida:
+
+1. se, constituindo o fato imputado crime de ação privada, o ofendido não foi condenado por sentença irrecorrível;
+2. se o fato é imputado a qualquer das pessoas indicadas no nº I do art. 218;
+3. se do crime imputado, embora de ação pública, o ofendido foi absolvido por sentença irrecorrível.
+
+# Difamação
+
+Art. 215. Difamar alguém, imputando-lhe fato ofensivo à sua reputação:
+
+Pena - detenção, de três meses a um ano.
+
+Parágrafo único. A exceção da verdade somente se admite se a ofensa é relativa ao exercício da função pública, militar ou civil, do ofendido.
+
+# Injúria
+
+Art. 216. Injuriar alguém, ofendendo-lhe a dignidade ou o decoro:
+
+Pena - detenção, até seis meses.
+
+§ 1º O juízo pode deixar de aplicar a pena:
+
+1. quando o ofendido, de forma reprovável, provocou diretamente a injúria;
+2. no caso de retorsão imediata, que consista em outra injúria. (Parágrafo acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Injúria qualificada
+
+(Nome jurídico acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+§ 2º Se a injúria consiste na utilização de elementos referentes a raça, a cor, a etnia, a religião, a origem, a orientação sexual ou a condição de pessoa idosa ou com deficiência:
+
+Pena - reclusão, de 1 (um) a 3 (três) anos. (Parágrafo acrescido pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+# Injúria real
+
+Art. 217. Se a injúria consiste em violência, ou outro ato que atinja a pessoa, e, por sua natureza ou pelo meio empregado, se considera aviltante:
+
+
+
+### Images from page 49:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_49.jpg` (full page screenshot)
+
+## Page 50
+
+
+Pena - detenção, de três meses a um ano, além da pena correspondente à violência.
+
+# Disposições comuns
+
+Art. 218. As penas cominadas nos antecedentes artigos deste capítulo aumentam-se de um terço, se qualquer dos crimes é cometido:
+
+1. contra o Presidente da República ou chefe de governo estrangeiro;
+2. contra superior;
+3. contra militar ou servidor público, em razão das suas funções; (Inciso com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+4. na presença de 2 (duas) ou mais pessoas ou de inferior hierárquico do ofendido, ou por meio que facilite a divulgação da calúnia, da difamação ou da injúria. (Inciso com redação dada pela Lei nº 14.688, de 20/9/2023, publicada no DOU de 21/9/2023, em vigor 60 dias após a publicação)
+
+Parágrafo único. Se o crime é cometido mediante paga ou promessa de recompensa, aplica-se a pena em dobro, se o fato não constitui crime mais grave.
+
+# Ofensa às forças armadas
+
+Art. 219. Propalar fatos, que sabe inverídicos, capazes de ofender a dignidade ou abalar o crédito das forças armadas ou a confiança que estas merecem do público:
+
+Pena - detenção, de seis meses a um ano.
+
+Parágrafo único. A pena será aumentada de um terço, se o crime é cometido pela imprensa, rádio ou televisão.
+
+# Exclusão de pena
+
+Art. 220. Não constitui ofensa punível, salvo quando inequívoca a intenção de injuriar, difamar ou caluniar:
+
+1. a irrogada em juízo, na discussão da causa, por uma das partes ou seu procurador contra a outra parte ou seu procurador;
+2. a opinião desfavorável da crítica literária, artística ou científica;
+3. a apreciação crítica às instituições militares, salvo quando inequívoca a intenção de ofender;
+4. o conceito desfavorável em apreciação ou informação prestada no cumprimento do dever de ofício.
+
+Parágrafo único. Nos casos dos ns. I e IV, responde pela ofensa quem lhe dá publicidade.
+
+# Equivocidade da ofensa
+
+Art. 221. Se a ofensa é irrogada de forma imprecisa ou equívoca, quem se julga atingido pode pedir explicações em juízo. Se o interpelado se recusa a dá-las ou, a critério do juiz, não as dá satisfatórias, responde pela ofensa.
+
+# CAPÍTULO VI
+
+# DOS CRIMES CONTRA A LIBERDADE
+
+# Seção I
+
+# Dos crimes contra a liberdade Individual
+
+
+
+### Images from page 50:
+- `parsed-documents://20251103-163853-644448/decreto-lei-1001-21-outubro-1969-376258-normaatualizada-pe.doc/images/page_50.jpg` (full page screenshot)
+All extracted images are available in the virtual parsed-documents:// namespace. You can read them using the regular file tools. If you need to use these images in the project (e.g., display them on a website), you MUST copy them to the project directory first.
+
+NOTE: This document has more than 50 pages. Only the first 50 pages were processed. The remaining content was not extracted.
