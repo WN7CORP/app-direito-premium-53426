@@ -42,30 +42,29 @@ export const formatTextWithUppercase = (text: string): string => {
   // Normalizar quebras de linha múltiplas LOGO NO INÍCIO
   let result = text.replace(/\n{2,}/g, '\n\n');
   
-  // Aplicar quebra de linha e negrito a "Parágrafo único" (incluindo variações com ponto)
-  result = result.replace(/([.;:!?])\s*(Parágrafo único\.?)/gi, '$1<br><strong class="font-bold">$2</strong>');
-  result = result.replace(/^(Parágrafo único\.?)/gim, '<strong class="font-bold">$1</strong>');
-  // Regra geral para pegar qualquer "Parágrafo único" que ainda não tenha sido formatado
-  result = result.replace(/(Parágrafo único\.?)(?!<)/gi, '<strong class="font-bold">$1</strong>');
+  // Aplicar espaçamento duplo e negrito a "Parágrafo único"
+  // Se não tiver \n\n antes, adiciona
+  result = result.replace(/(?<!\n\n)(^|\n)(Parágrafo único\.?)/gim, '$1\n\n<strong class="font-bold">$2</strong>');
+  // Caso já tenha \n\n antes, só adiciona negrito
+  result = result.replace(/(\n\n)(Parágrafo único\.?)(?!<)/gi, '$1<strong class="font-bold">$2</strong>');
   
-  // Aplicar quebra de linha e negrito a parágrafos (§) - após pontuação
-  result = result.replace(/([.;:!?])\s+(§\s*\d+º)/g, '$1<br><strong class="font-bold">$2</strong>');
-  // Para parágrafos no início de linha (já tem quebra antes, não adiciona outra)
-  result = result.replace(/^(§\s*\d+º)/gm, '<strong class="font-bold">$1</strong>');
+  // Aplicar espaçamento duplo e negrito a parágrafos (§)
+  // Se não tiver \n\n antes, adiciona
+  result = result.replace(/(?<!\n\n)(^|\n)(§\s*\d+º)/gm, '$1\n\n<strong class="font-bold">$2</strong>');
+  // Caso já tenha \n\n antes, só adiciona negrito
+  result = result.replace(/(\n\n)(§\s*\d+º)(?!<)/g, '$1<strong class="font-bold">$2</strong>');
   
-  // Aplicar negrito a incisos romanos (I, II, III, etc) seguidos de hífen/traço
-  // Adiciona quebra de linha antes de cada inciso que vem após pontuação
-  result = result.replace(/([.;:!?])\s+([IVXLCDM]+)\s*[-–—]\s*/g, '$1<br><strong class="font-bold">$2</strong> - ');
-  // Para incisos no início de linha (já tem quebra antes, não adiciona outra)
-  result = result.replace(/^([IVXLCDM]+)\s*[-–—]\s*/gm, '<strong class="font-bold">$1</strong> - ');
-  // Para incisos após dois pontos ou parênteses
-  result = result.replace(/:\s+([IVXLCDM]+)\s*[-–—]/g, ':<br><strong class="font-bold">$1</strong> -');
+  // Aplicar espaçamento duplo e negrito a incisos romanos (I, II, III, etc)
+  // Se não tiver \n\n antes, adiciona
+  result = result.replace(/(?<!\n\n)(^|\n)([IVXLCDM]+)\s*[-–—]\s*/gm, '$1\n\n<strong class="font-bold">$2</strong> - ');
+  // Caso já tenha \n\n antes, só adiciona negrito
+  result = result.replace(/(\n\n)([IVXLCDM]+)\s*[-–—](?!\s*<)/g, '$1<strong class="font-bold">$2</strong> - ');
   
-  // Aplicar negrito a alíneas (a), b), c)) com quebra de linha
-  // Alíneas no início de linha (já tem quebra antes, não adiciona outra)
-  result = result.replace(/^\s*([a-z])\)\s*/gm, '<strong class="font-bold">$1)</strong> ');
-  // Alíneas após pontuação
-  result = result.replace(/([.;:!?])\s*([a-z])\)\s*/g, '$1<br><strong class="font-bold">$2)</strong> ');
+  // Aplicar espaçamento duplo e negrito a alíneas (a), b), c))
+  // Se não tiver \n\n antes, adiciona
+  result = result.replace(/(?<!\n\n)(^|\n)\s*([a-z])\)\s*/gm, '$1\n\n<strong class="font-bold">$2)</strong> ');
+  // Caso já tenha \n\n antes, só adiciona negrito
+  result = result.replace(/(\n\n)\s*([a-z])\)(?!\s*<)/g, '$1<strong class="font-bold">$2)</strong> ');
   
   // Identificar e marcar apenas TÍTULOS principais (linhas completas em caixa alta)
   // NÃO aplicar em textos após §, incisos, alíneas ou dentro de artigos

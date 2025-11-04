@@ -16,102 +16,93 @@ serve(async (req) => {
     const supabaseKey = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!;
     const supabase = createClient(supabaseUrl, supabaseKey);
 
-    console.log("🔧 Iniciando correção de títulos no CPPM");
+    console.log("🔧 Iniciando correção: mover títulos para dentro dos artigos");
 
-    // Buscar todos os artigos com número, ordenados
-    const { data: artigos, error: fetchError } = await supabase
+    // 1. Buscar registros SEM número de artigo que são títulos
+    const { data: titulos, error: titulosError } = await supabase
       .from("CPPM – Código de Processo Penal Militar")
-      .select("id, \"Número do Artigo\", \"Artigo\"")
-      .not("Número do Artigo", "is", null)
+      .select("id, \"Artigo\"")
+      .is("Número do Artigo", null)
       .order("id");
 
-    if (fetchError) throw fetchError;
+    if (titulosError) throw titulosError;
 
-    console.log(`📄 ${artigos?.length} artigos encontrados`);
+    console.log(`📋 ${titulos?.length} registros sem número de artigo encontrados`);
 
-    let corrigidos = 0;
+    let movidos = 0;
+    let deletados = 0;
 
-    // Processar artigos em pares (atual e próximo)
-    for (let i = 0; i < (artigos?.length || 0) - 1; i++) {
-      const artigoAtual = artigos![i];
-      const proximoArtigo = artigos![i + 1];
-
-      const conteudoAtual = artigoAtual.Artigo || "";
-      const conteudoProximo = proximoArtigo.Artigo || "";
-
-      // Dividir em linhas
-      const linhasAtual = conteudoAtual.split('\n');
+    // 2. Processar cada título
+    for (const titulo of titulos || []) {
+      const conteudo = (titulo.Artigo || "").trim();
       
-      // Verificar se última linha não vazia é um título (curta, sem "Art.", sem "§")
-      let ultimaLinhaIndex = linhasAtual.length - 1;
-      while (ultimaLinhaIndex >= 0 && linhasAtual[ultimaLinhaIndex].trim() === '') {
-        ultimaLinhaIndex--;
-      }
-
-      if (ultimaLinhaIndex < 0) continue;
-
-      const ultimaLinha = linhasAtual[ultimaLinhaIndex].trim();
+      // Verificar se é um título curto (não estrutural)
+      const palavrasEstruturais = ["LIVRO", "TÍTULO", "CAPÍTULO", "SEÇÃO", "DECRETO", "LEI", "PARTE"];
+      const temPalavraEstrutural = palavrasEstruturais.some(p => conteudo.toUpperCase().includes(p));
       
-      // Critérios para identificar título:
-      // - Não começa com "Art.", "§", "a)", "b)", números romanos seguidos de "-"
-      // - Tem menos de 100 caracteres
-      // - Não termina com ponto (títulos geralmente não têm pontuação final)
-      // - Primeira letra maiúscula
-      const pareceSubtitulo = 
-        ultimaLinha.length > 5 &&
-        ultimaLinha.length < 100 &&
-        !/^(Art\.|§|\d+º|[a-z]\)|[IVXLCDM]+\s*[-–—])/.test(ultimaLinha) &&
-        /^[A-ZÁÀÂÃÉÈÊÍÏÓÔÕÖÚÇÑ]/.test(ultimaLinha);
-
-      if (pareceSubtitulo) {
-        console.log(`\n🔍 Art. ${artigoAtual["Número do Artigo"]}: Título detectado: "${ultimaLinha}"`);
-
-        // Remover título do artigo atual
-        const novasLinhasAtual = linhasAtual.slice(0, ultimaLinhaIndex);
-        // Remover linhas vazias do final
-        while (novasLinhasAtual.length > 0 && novasLinhasAtual[novasLinhasAtual.length - 1].trim() === '') {
-          novasLinhasAtual.pop();
-        }
-        const novoConteudoAtual = novasLinhasAtual.join('\n');
-
-        // Adicionar título no início do próximo artigo
-        const novoConteudoProximo = `${conteudoProximo}\n\n${ultimaLinha}`;
-
-        // Atualizar artigo atual (remover título do final)
-        const { error: updateError1 } = await supabase
+      if (conteudo.length >= 10 && conteudo.length <= 80 && !temPalavraEstrutural) {
+        console.log(`\n📌 Título detectado (ID ${titulo.id}): "${conteudo}"`);
+        
+        // 3. Buscar próximo artigo COM número
+        const { data: proximosArtigos, error: proximoError } = await supabase
           .from("CPPM – Código de Processo Penal Militar")
-          .update({ "Artigo": novoConteudoAtual })
-          .eq("id", artigoAtual.id);
+          .select("id, \"Número do Artigo\", \"Artigo\"")
+          .not("Número do Artigo", "is", null)
+          .gt("id", titulo.id)
+          .order("id")
+          .limit(1);
 
-        if (updateError1) {
-          console.error(`❌ Erro ao atualizar Art. ${artigoAtual["Número do Artigo"]}:`, updateError1);
+        if (proximoError || !proximosArtigos || proximosArtigos.length === 0) {
+          console.log(`⚠️ Nenhum artigo seguinte encontrado para título ID ${titulo.id}`);
           continue;
         }
 
-        // Atualizar próximo artigo (adicionar título no início)
-        const { error: updateError2 } = await supabase
+        const proximoArtigo = proximosArtigos[0];
+        const conteudoArtigo = proximoArtigo.Artigo || "";
+
+        // 4. Adicionar título no INÍCIO do artigo seguinte
+        const novoConteudo = `${conteudo}\n\n${conteudoArtigo}`;
+
+        // 5. Atualizar artigo
+        const { error: updateError } = await supabase
           .from("CPPM – Código de Processo Penal Militar")
-          .update({ "Artigo": novoConteudoProximo })
+          .update({ "Artigo": novoConteudo })
           .eq("id", proximoArtigo.id);
 
-        if (updateError2) {
-          console.error(`❌ Erro ao atualizar Art. ${proximoArtigo["Número do Artigo"]}:`, updateError2);
+        if (updateError) {
+          console.error(`❌ Erro ao atualizar Art. ${proximoArtigo["Número do Artigo"]}:`, updateError);
           continue;
         }
 
-        console.log(`✅ Título movido do Art. ${artigoAtual["Número do Artigo"]} para Art. ${proximoArtigo["Número do Artigo"]}`);
-        corrigidos++;
+        console.log(`✅ Título movido para Art. ${proximoArtigo["Número do Artigo"]}`);
+        movidos++;
+
+        // 6. Deletar registro do título
+        const { error: deleteError } = await supabase
+          .from("CPPM – Código de Processo Penal Militar")
+          .delete()
+          .eq("id", titulo.id);
+
+        if (deleteError) {
+          console.error(`❌ Erro ao deletar título ID ${titulo.id}:`, deleteError);
+        } else {
+          console.log(`🗑️ Registro do título ID ${titulo.id} deletado`);
+          deletados++;
+        }
       }
     }
 
-    console.log(`\n🎉 Correção concluída! ${corrigidos} artigos corrigidos`);
+    console.log(`\n🎉 Correção concluída!`);
+    console.log(`✅ ${movidos} títulos movidos para artigos`);
+    console.log(`🗑️ ${deletados} registros de títulos deletados`);
 
     return new Response(
       JSON.stringify({ 
         success: true, 
-        total: artigos?.length,
-        corrigidos,
-        message: `${corrigidos} títulos movidos para seus artigos corretos`
+        total: titulos?.length,
+        movidos,
+        deletados,
+        message: `${movidos} títulos integrados aos artigos e ${deletados} registros limpos`
       }),
       { 
         headers: { 
