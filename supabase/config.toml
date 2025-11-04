@@ -1,1 +1,7 @@
 project_id = "izspjvegxdfgkgibpyst"
+
+[functions.popular-cppm-da-tabela-editar]
+verify_jwt = false
+
+[functions.popular-cppm-v2]
+verify_jwt = false
