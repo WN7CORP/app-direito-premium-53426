@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState } from "react";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { ScrollArea } from "@/components/ui/scroll-area";
@@ -50,30 +50,6 @@ export const ArtigoListaCompacta = ({
   codeName
 }: ArtigoListaCompactaProps) => {
   const [expandedId, setExpandedId] = useState<number | null>(null);
-  const observerRef = useRef<IntersectionObserver | null>(null);
-  
-  useEffect(() => {
-    observerRef.current = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            entry.target.classList.add('animate-in');
-            observerRef.current?.unobserve(entry.target);
-          }
-        });
-      },
-      { threshold: 0.1 }
-    );
-
-    return () => observerRef.current?.disconnect();
-  }, []);
-
-  useEffect(() => {
-    const cards = document.querySelectorAll('.article-card:not(.animate-in)');
-    cards.forEach((card) => {
-      observerRef.current?.observe(card);
-    });
-  }, [articles]);
   
   const getPreviewText = (content: string) => {
     const cleanText = content.replace(/\n/g, ' ').trim();
@@ -123,12 +99,11 @@ export const ArtigoListaCompacta = ({
             return (
               <Card
                 key={article.id}
-                className={`article-card opacity-0 overflow-hidden transition-all duration-300 bg-[hsl(45,93%,58%)]/5 ${
+                className={`overflow-hidden transition-all duration-300 bg-[hsl(45,93%,58%)]/5 ${
                   isExpanded 
                     ? 'border-[hsl(45,93%,58%)] shadow-lg' 
                     : 'hover:border-[hsl(45,93%,58%)]/50 hover:shadow-sm'
                 }`}
-                style={{ animationDelay: `${index * 50}ms` }}
               >
                 {/* Header compacto - sempre visível */}
                 <div 

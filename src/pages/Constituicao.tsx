@@ -56,7 +56,6 @@ const Constituicao = () => {
   const [searchParams] = useSearchParams();
   const contentRef = useRef<HTMLDivElement>(null);
   const firstResultRef = useRef<HTMLDivElement>(null);
-  const observerRef = useRef<IntersectionObserver | null>(null);
   const [fontSize, setFontSize] = useState(15);
   const [searchInput, setSearchInput] = useState("");
   const [searchQuery, setSearchQuery] = useState("");
@@ -73,23 +72,6 @@ const Constituicao = () => {
       setSearchQuery(artigoParam);
     }
   }, [searchParams]);
-  
-  // Intersection Observer for scroll animations
-  useEffect(() => {
-    observerRef.current = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            entry.target.classList.add('animate-in');
-            observerRef.current?.unobserve(entry.target);
-          }
-        });
-      },
-      { threshold: 0.1 }
-    );
-
-    return () => observerRef.current?.disconnect();
-  }, []);
 
   const [stickyPlayerOpen, setStickyPlayerOpen] = useState(false);
   const [currentAudio, setCurrentAudio] = useState({
@@ -144,28 +126,23 @@ const Constituicao = () => {
   // Use IndexedDB cache for instant loading
   const { cachedData, isLoadingCache, saveToCache } = useIndexedDBCache<Article>(tableName);
 
-  // Fetch articles with optimized strategy: cache first, then initial batch
+  // Fetch articles with optimized strategy: cache first, then load all
   const {
     data: articles = [],
     isLoading
   } = useQuery({
-    queryKey: ['constituicao-articles-v3', tableName],
+    queryKey: ['constituicao-articles-v4', tableName],
     queryFn: async () => {
       // Se tem cache, retorna imediatamente
       if (cachedData && cachedData.length > 0) {
         return cachedData;
       }
 
-      // Carregar apenas primeiros 100 artigos para início rápido
-      const initialData = await fetchInitialRows<Article>("CF - Constituição Federal", 100, "id");
-      
-      // Carregar resto em background e salvar no cache
-      setTimeout(async () => {
-        const fullData = await fetchAllRows<Article>("CF - Constituição Federal", "id");
-        await saveToCache(fullData);
-      }, 100);
+      // Carregar todos os artigos de uma vez (167 artigos)
+      const fullData = await fetchAllRows<Article>("CF - Constituição Federal", "id");
+      await saveToCache(fullData);
 
-      return initialData as any as Article[];
+      return fullData as any as Article[];
     },
     enabled: !isLoadingCache, // Só busca depois de verificar cache
     staleTime: Infinity, // Cache permanente
@@ -230,13 +207,6 @@ const Constituicao = () => {
     ) as any[];
   }, [articles]);
   
-  // Observe article cards for animations
-  useEffect(() => {
-    const cards = document.querySelectorAll('.article-card:not(.animate-in)');
-    cards.forEach((card) => {
-      observerRef.current?.observe(card);
-    });
-  }, [displayedArticles, viewMode]);
 
   // Auto-scroll to first result when searching
   useEffect(() => {
@@ -498,12 +468,11 @@ const Constituicao = () => {
                     <div
                       key={article.id}
                       ref={index === 0 && searchQuery ? firstResultRef : null}
-                      className={`article-card opacity-0 bg-card rounded-2xl p-6 border transition-all ${
+                      className={`bg-card rounded-2xl p-6 border transition-all ${
                         isHighlighted 
                           ? 'border-[hsl(45,93%,58%)] shadow-lg shadow-[hsl(45,93%,58%)]/20 ring-2 ring-[hsl(45,93%,58%)]/20' 
                           : 'border-border/50 hover:border-[hsl(45,93%,58%)]/30 hover:shadow-[hsl(45,93%,58%)]/5'
                       }`}
-                      style={{ animationDelay: `${index * 50}ms` }}
                     >
                       <div className="flex justify-between items-start mb-4">
                         <h2 className="text-[hsl(45,93%,58%)] font-bold text-xl md:text-2xl">

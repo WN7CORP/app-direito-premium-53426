@@ -188,12 +188,6 @@ All colors MUST be HSL.
 
 /* Animation definitions */
 
-/* Animação de entrada com Intersection Observer - Otimizada */
-.animate-in {
-  animation: fade-in 0.3s ease-out forwards;
-  will-change: transform, opacity;
-}
-
 /* Animação staggered para listas - Performance otimizada */
 .stagger-item {
   opacity: 0;
