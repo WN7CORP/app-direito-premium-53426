@@ -94,7 +94,7 @@ export const formatTextWithUppercase = (text: string): string => {
     // Se mais de 70% das palavras estão em caixa alta E tem pelo menos 2 palavras, é um título
     if (upperWords.length >= 2 && (upperWords.length / words.length) > 0.7) {
       const titleText = toTitleCase(trimmedLine);
-      return `<br><br><span class="text-[hsl(45,93%,58%)]">${titleText}</span>`;
+      return `<span class="text-[hsl(45,93%,58%)]">${titleText}</span>`;
     }
     
     return line;
