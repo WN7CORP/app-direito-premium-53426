@@ -13,7 +13,7 @@ interface VadeMecumDB extends DBSchema {
 }
 
 const DB_NAME = 'vade-mecum-db';
-const DB_VERSION = 1;
+const DB_VERSION = 2; // Incrementado para forçar atualização
 const CACHE_DURATION = 1000 * 60 * 60 * 24 * 7; // 7 dias
 
 let dbPromise: Promise<IDBPDatabase<VadeMecumDB>> | null = null;
@@ -21,9 +21,17 @@ let dbPromise: Promise<IDBPDatabase<VadeMecumDB>> | null = null;
 const getDB = () => {
   if (!dbPromise) {
     dbPromise = openDB<VadeMecumDB>(DB_NAME, DB_VERSION, {
-      upgrade(db) {
+      upgrade(db, oldVersion) {
         if (!db.objectStoreNames.contains('articles')) {
           db.createObjectStore('articles');
+        }
+        // Limpar cache ao atualizar versão
+        if (oldVersion < 2) {
+          console.log('Limpando cache antigo do IndexedDB...');
+          if (db.objectStoreNames.contains('articles')) {
+            const transaction = db.transaction('articles', 'readwrite');
+            transaction.objectStore('articles').clear();
+          }
         }
       },
     });
